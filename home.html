@@ -353,30 +353,40 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
-    body {
-      margin: 0;    
-      margin-top: 8vh;
-      background-color: transparent !important; /* Empêche le thème Quarto de cacher l'image */
-    }
+  /* 1. On force la transparence de TOUTE la structure Quarto */
+  body, 
+  #quarto-content, 
+  .quarto-container, 
+  .page-layout-custom, 
+  #quarto-search-results {
+    background-color: transparent !important;
+  }
 
-    body::before {
-      content: "";
-      position: fixed; 
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      z-index: -1; 
-      background-image: url("resources/images/LMS_Building_compressed.png"); 
-      background-size: contain; 
-      background-position: center top;
-      background-repeat: no-repeat;
-    }
+  /* 2. On configure le fond sur le Body (avec le correctif Safari) */
+  body::before {
+    content: "";
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -2; /* On le met tout au fond */
+    background-image: url("resources/images/LMS_Building_compressed.png");
+    background-size: contain; 
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
 
-    .page_contente {
-      margin-top: -15vh; 
-    }
-  </style>
+  /* 3. On s'assure que la section About reste lisible (opaque) */
+  .quarto-about-trestles {
+    background-color: var(--bs-body-bg) !important;
+    z-index: 1;
+  }
+
+  .page_contente {
+    margin-top: -15vh; 
+  }
+</style>
 <div class="page_contente">
 <div class="quarto-about-trestles">
   <div class="about-entity">
