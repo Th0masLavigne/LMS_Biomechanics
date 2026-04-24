@@ -43,6 +43,7 @@ format:
     body {
     margin: 0;    
     margin-top: 8vh;
+    background-color: transparent !important;
   }
 
   body::before {
