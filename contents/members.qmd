@@ -1,0 +1,27 @@
+---
+title: "Group Members"
+format: html
+---
+
+* Principal Investigators (PIs)
+* Postdoctoral Researchers
+* PhD Students
+* Master’s Students
+* Alumni
+
+
+
+Post-doc : Katka et TL + Guillaume Lafitte (Chloé)
+Doctorants :
+
+Mariana
+Simon
+Julien
+Qian Wu (soutenance en 2025)
+Giulia Merlini (soutenance en 2025)
+Stagaires (en cours)
+Margaux Mercier
+Odette
+Parsa
+Madouba Sangare (2025)
+Siyue Peng (2025)

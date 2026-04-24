@@ -1,0 +1,12 @@
+---
+title: "Publications"
+format: html
+bibliography: ../resources/biblio/biblio_web.bib
+nocite: |
+  @*
+---
+
+Here is the complete list of our research publications:
+
+::: {#refs style="max-height: 450px; overflow-y: auto; border: 1px solid var(--bs-border-color); padding: 20px; border-radius: 8px;"}
+:::

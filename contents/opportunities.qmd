@@ -1,0 +1,6 @@
+---
+title: "Open Positions"
+format: html
+---
+* Current vacancies (if any).
+* Spontaneous applications instructions. (through contact)

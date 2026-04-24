@@ -1,0 +1,9 @@
+---
+title: "News and events"
+format: html
+---
+
+
+* Recent thesis defenses.
+* Conference presentations.
+* Awards and grants.

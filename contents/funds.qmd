@@ -1,0 +1,10 @@
+---
+title: "Ongoing Fundings"
+format: html
+---
+
+- Starting package Chloé Techens
+- ANR KAYO (Leading group) : Microrheology of venous blood clots for the diagnosis of hypercoagulability
+- Premyom (partner) : Prise en charge et Ralentissement de l'Epidémie de MYopie par l'Optique Médicale (premyom.com)
+- ANR ROSALY (partner) : Development of an in vitro vascular platform to study the patient-specific mechanobiological behaviour of human primary cells
+- ANR MICHOCO (parner) : Molar-incisor hypomineralization: treatment decision assisted by optical coherence tomography
