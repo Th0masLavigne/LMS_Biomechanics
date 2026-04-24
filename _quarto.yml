@@ -27,23 +27,23 @@ website:
   site-url: https://th0maslavigne.github.io/LMS_Biomechanics
   navbar:
     right:
-      - href: contents/home.qmd
+      - href: home.qmd
         text: Home
-      - href: contents/news.qmd
+      - href: news.qmd
         text: News 
       - text: Research
         menu:
-          - href: contents/research.qmd
+          - href: research.qmd
             text: Projects
-          - href: contents/publications.qmd
+          - href: publications.qmd
             text: Publications
-          - href: contents/members.qmd
+          - href: members.qmd
             text: Members
-          - href: contents/funds.qmd
+          - href: funds.qmd
             text: Funds
-      - href: contents/opportunities.qmd
+      - href: opportunities.qmd
         text: Open Positions
-      - href: contents/contact.qmd
+      - href: contact.qmd
         text: Contact
       - text: "{{< iconify fa6-brands gitlab >}}" # Use a more standard icon set name
         href: https://src.koda.cnrs.fr/lms1
@@ -62,7 +62,7 @@ website:
     left: |
       <small>
         &copy; 2025 Soft Tissue Biomechanics Group — All rights reserved.<br>
-        <li>📧 <a href="https://th0maslavigne.github.io/LMS_Biomechanics/contents/contact.html">Contact us</a></li>
+        <li>📧 <a href="contact.html">Contact us</a></li>
       </small>
 
 
@@ -71,16 +71,16 @@ format:
   html:
     email-obfuscation: javascript
     theme:
-      light: [flatly,../resources/pages_style/style_site.scss]
-      dark: [darkly,../resources/pages_style/style_site_dark.scss]
+      light: [flatly,resources/pages_style/style_site.scss]
+      dark: [darkly,resources/pages_style/style_site_dark.scss]
     respect-user-color-scheme: true
     css: resources/pages_style/styles.css
     toc: true
     smooth-scroll: true
     include-after-body:
       text: |
-        <script type="application/javascript" src="../resources/pages_style/custom_hal.js"></script>
-        <script type="application/javascript" src="../resources/pages_style/carousel.js"></script>
+        <script type="application/javascript" src="resources/pages_style/custom_hal.js"></script>
+        <script type="application/javascript" src="resources/pages_style/carousel.js"></script>
 
 header-includes:
-  - <script src="../resources/pages_style/carousel.js"></script>
+  - <script src="resources/pages_style/carousel.js"></script>

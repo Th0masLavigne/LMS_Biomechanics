@@ -1,7 +1,7 @@
 ---
 title: Soft Tissue Biomechanics Group @ LMS
-image: ../resources/images/home_page_image_2.png
-bibliography: ../resources/biblio/biblio_web.bib
+image: resources/images/home_page_image_2.png
+bibliography: resources/biblio/biblio_web.bib
 toc: false
 about:
   id: hero-heading
@@ -9,7 +9,7 @@ about:
   links:
     - icon: envelope
       text: Contact us
-      href: https://th0maslavigne.github.io/LMS_Biomechanics/contents/contact.html
+      href: contact.html
     - text: "{{< iconify fa6-brands gitlab >}} Gitlab"
       href: https://src.koda.cnrs.fr/lms1
 format:
@@ -41,7 +41,7 @@ format:
 
   <style>
     body {
-      background-image: url("../resources/images/LMS_Building.jpg");
+      background-image: url("resources/images/LMS_Building.jpg");
       background-size: contain;/*cover / contain */
       background-position: center top; /*20% or 20px*/
       background-repeat: no-repeat;
