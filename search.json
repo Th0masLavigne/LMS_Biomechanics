@@ -9,9 +9,9 @@
   {
     "objectID": "contents/funds.html",
     "href": "contents/funds.html",
-    "title": "Soft Tissue Biomechanics Group @ LMS",
+    "title": "Ongoing Fundings",
     "section": "",
-    "text": "Back to top"
+    "text": "Starting package Chloé Techens\nANR KAYO (Leading group) : Microrheology of venous blood clots for the diagnosis of hypercoagulability\nPremyom (partner) : Prise en charge et Ralentissement de l’Epidémie de MYopie par l’Optique Médicale (premyom.com)\nANR ROSALY (partner) : Development of an in vitro vascular platform to study the patient-specific mechanobiological behaviour of human primary cells\nANR MICHOCO (parner) : Molar-incisor hypomineralization: treatment decision assisted by optical coherence tomography\n\n\n\n\n Back to top"
   },
   {
     "objectID": "contents/contact.html",
@@ -23,36 +23,43 @@
   {
     "objectID": "contents/research.html",
     "href": "contents/research.html",
-    "title": "Soft Tissue Biomechanics Group @ LMS",
+    "title": "Research Activities",
     "section": "",
-    "text": "Back to top"
+    "text": "A adapter comme projects de ma page\nOur team specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.\nJump to: [ Cornea Mechanics href=\"#cornea\" ] | [ Ocular Mechanics href=\"#eye\" ] | [ Blood Clots & Hemostasis href=\"#clot\" ] | [ Hydrogels & Biomaterials href=\"#hydrogel\" ] | [ Other Tissues href=\"#others\" ]"
+  },
+  {
+    "objectID": "contents/research.html#section",
+    "href": "contents/research.html#section",
+    "title": "Research Activities",
+    "section": "",
+    "text": "## Corneal Mechanics & Refractive Surgery We investigate the intricate lamellar microstructure of the cornea to predict its response to surgical interventions (like LASIK or cross-linking) and degenerative diseases (such as keratoconus). Our approach combines inflation tests with microstructure-informed finite element models to characterize anisotropy and collagen remodeling. * Key topics: Corneal anisotropy, refractive surgery simulation, collagen fiber remodeling models. * [ Relevant Publications href=\"#/publications?tag=cornea\" ]\n\n ## Full Ocular Mechanics Beyond the cornea, we model the mechanical environment of the entire eye globe. This includes analyzing the biomechanical factors contributing to glaucoma (optic nerve head deformation) and vitreoretinal interaction, treating the eye as a complex, pressurized multi-material system. * Key topics: Glaucoma biomechanics, optic nerve head deformation, intraocular pressure modeling. * [ Relevant Publications href=\"#/publications?tag=eye\" ]\n\n ## Mechanics of Blood Clots & Hemostasis Understanding the mechanics of thrombus formation and dissolution is crucial for tackling cardiovascular diseases. We characterize the viscoelastic and fracture properties of fibrin networks and blood clots under physiological flow conditions, aiming to predict clot stability, embolization risks, and the efficacy of thrombolytic therapies. * Key topics: Thrombus visco-hyperelasticity, fracture mechanics of fibrin, fluid-structure interaction in thrombosis. * [ Relevant Publications href=\"#/publications?tag=clot\" ]\n\n ## Synthetic Hydrogels & Biomimetic Materials Hydrogels are essential tools for tissue engineering and mechanobiology. We study the nonlinear, time-dependent mechanics of synthetic and natural hydrogels to tailor their properties for specific biomedical applications, such as developing scaffolds that mimic the mechanical niche of Smooth Muscle Cells (SMCs). * Key topics: Viscoelasticity of hydrogels, porous media mechanics, biomimetic scaffold design. * [ Relevant Publications href=\"#/publications?tag=hydrogel\" ]\n\n ## Fundamental Soft Matter Mechanics & Others We also apply our expertise to general problems in soft matter and active tissue mechanics, including cell-matrix interactions and the fundamental behavior of other soft biological tissues (vascular, skin, etc.) using novel experimental and numerical tools. * Key topics: Smooth muscle cell mechanics, tissue growth and atrophy, inverse modeling techniques. * [ Relevant Publications href=\"#/publications?tag=others\" ]"
   },
   {
     "objectID": "contents/news.html",
     "href": "contents/news.html",
-    "title": "Soft Tissue Biomechanics Group @ LMS",
+    "title": "News and events",
     "section": "",
-    "text": "Back to top"
+    "text": "Recent thesis defenses.\nConference presentations.\nAwards and grants.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "contents/opportunities.html",
     "href": "contents/opportunities.html",
-    "title": "Soft Tissue Biomechanics Group @ LMS",
+    "title": "Open Positions",
     "section": "",
-    "text": "Back to top"
+    "text": "Current vacancies (if any).\nSpontaneous applications instructions. (through contact)\n\n\n\n\n Back to top"
   },
   {
     "objectID": "contents/members.html",
     "href": "contents/members.html",
-    "title": "Soft Tissue Biomechanics Group @ LMS",
+    "title": "Group Members",
     "section": "",
-    "text": "Back to top"
+    "text": "Principal Investigators (PIs)\nPostdoctoral Researchers\nPhD Students\nMaster’s Students\nAlumni\n\nPost-doc : Katka et TL + Guillaume Lafitte (Chloé) Doctorants :\nMariana Simon Julien Qian Wu (soutenance en 2025) Giulia Merlini (soutenance en 2025) Stagaires (en cours) Margaux Mercier Odette Parsa Madouba Sangare (2025) Siyue Peng (2025)\n\n\n\n Back to top"
   },
   {
     "objectID": "contents/publications.html",
     "href": "contents/publications.html",
-    "title": "Soft Tissue Biomechanics Group @ LMS",
+    "title": "Publications",
     "section": "",
-    "text": "Back to top"
+    "text": "Here is the complete list of our research publications:\n\n\nAuger, Patrick, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, and François Hild. 2020. “Poynting Effects in Pantographic Metamaterial Captured via Multiscale DVC.” The Journal of Strain Analysis for Engineering Design 56 (7): 462–77. https://doi.org/10.1177/0309324720976625.\n\n\nLavigne, T., S. P. A. Bordas, and J. Lengiewicz. 2023. “Identification of Material Parameters and Traction Field for Soft Bodies in Contact.” Computer Methods in Applied Mechanics and Engineering 406 (March): 115889. https://doi.org/10.1016/j.cma.2023.115889.\n\n\nLavigne, Thomas, Camilo Andrés Suarez Afanador, Anas Obeidat, and Stéphane Urcun. 2025. Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis. https://arxiv.org/abs/2502.14518.\n\n\nLavigne, Thomas, Stéphane Urcun, Bérengère Fromy, et al. 2025. “Hierarchical Poromechanical Approach to Investigate the Impact of Mechanical Loading on Human Skin Micro-Circulation.” International Journal for Numerical Methods in Biomedical Engineering, ahead of print. https://doi.org/10.1002/cnm.70066.\n\n\nLavigne, Thomas, Stéphane Urcun, Emmanuelle Jacquet, et al. 2024. “Poromechanical Modelling of the Time-Dependent Response of in Vivo Human Skin During Extension.” In International Journal for Numerical Methods in Biomedical Engineering. International Journal for Numerical Methods in Biomedical Engineering. https://doi.org/10.48550/ARXIV.2412.07374.\n\n\nLavigne, Thomas, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, and Stéphane P. A. Bordas. 2023. “Single and Bi-Compartment Poro-Elastic Model of Perfused Biological Soft Tissues: FEniCSx Implementation and Tutorial.” Journal of the Mechanical Behavior of Biomedical Materials 143 (July): 105902. https://doi.org/10.1016/j.jmbbm.2023.105902.\n\n\nLavigne, T., A. Mazier, A. Perney, S. P. A. Bordas, F. Hild, and J. Lengiewicz. 2022. “Digital Volume Correlation for Large Deformations of Soft Tissues: Pipeline and Proof of Concept for the Application to Breast Ex Vivo Deformations.” Journal of the Mechanical Behavior of Biomedical Materials 136 (December): 105490. https://doi.org/10.1016/j.jmbbm.2022.105490.\n\n\nLavigne, T., G. Sciumè, S. Laporte, et al. 2022. “Société de Biomécanique Young Investigator Award 2021: Numerical Investigation of the Time-Dependent Stress–Strain Mechanical Behaviour of Skeletal Muscle Tissue in the Context of Pressure Ulcer Prevention.” Clinical Biomechanics 93 (March): 105592. https://doi.org/10.1016/j.clinbiomech.2022.105592.\n\n\n\n\n\n Back to top"
   }
 ]
