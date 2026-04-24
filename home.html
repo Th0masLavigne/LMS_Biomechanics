@@ -352,8 +352,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><style> body { background-image: url(“resources/images/LMS_Building.jpg”); background-size: contain;/<em>cover / contain </em>/ background-position: center top; /<em>20% or 20px</em>/ background-repeat: no-repeat; background-attachment: fixed; margin: 0;<br />
-margin-top: 8vh; } .page_contente { margin-top: -15vh; } </style></p>
+<p><style> body { margin: 0;<br />
+margin-top: 8vh; }</p>
+<p>body::before { content: ““; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: -1; background-image: url(”resources/images/LMS_Building.jpg”); /* Path from the root */ background-size: contain; background-position: center top; background-repeat: no-repeat; } .page_contente { margin-top: -15vh; } </style></p>
 <div class="page_contente">
 <div class="quarto-about-trestles">
   <div class="about-entity">
