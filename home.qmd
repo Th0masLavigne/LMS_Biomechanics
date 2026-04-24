@@ -41,7 +41,7 @@ format:
 
   <style>
     body {
-      background-image: url("https://th0maslavigne.github.io/LMS_Biomechanics/resources/images/LMS_Building.jpg");
+      background-image: url("resources/images/LMS_Building_compressed.png");
       background-size: contain;/*cover / contain */
       background-position: center top; /*20% or 20px*/
       background-repeat: no-repeat;
