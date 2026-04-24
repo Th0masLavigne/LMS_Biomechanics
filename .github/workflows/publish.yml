@@ -17,6 +17,11 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Clean old build files
+        run: |
+          rm -rf .quarto
+          rm -rf docs
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
