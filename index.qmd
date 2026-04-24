@@ -1,8 +1,0 @@
----
-title: "Redirecting..."
-format: html
----
-
-```{=html}
-<meta http-equiv="refresh" content="0; url=contents/home.html">
-```
