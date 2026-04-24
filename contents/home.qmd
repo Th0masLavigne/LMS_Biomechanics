@@ -1,0 +1,75 @@
+---
+title: Soft Tissue Biomechanics Group @ LMS
+image: ../resources/images/home_page_image_2.png
+bibliography: ../resources/biblio/biblio_web.bib
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  links:
+    - icon: envelope
+      text: Contact us
+      href: https://th0maslavigne.github.io/LMS_Biomechanics/contact.html
+    - text: "{{< iconify fa6-brands gitlab >}} Gitlab"
+      href: https://src.koda.cnrs.fr/lms1
+format:
+  html:
+    page-layout: custom
+    include-in-header:
+      - text: |
+          <style>
+            /* TARGETS THE ABOUT SECTION WRAPPER */
+            .about-template-trestles {
+              /* Remove vertical centering spacing and force to the top */
+              padding-top: 10px !important; 
+              min-height: auto !important; /* Prevents it from forcing a minimum screen height */
+              padding-bottom: 10px !important; /* Reduce bottom padding as well */
+            }
+
+            /* TARGETS THE HERO CONTENT ITSELF (Your Name, Image, Links) */
+            #hero-heading {
+              /* Ensure the internal content has no large top margin */
+              margin-top: 0 !important; 
+            }
+          </style>
+      - text: |
+          <meta name="google-site-verification" content="tU9wtzWA1tzRdwTl-Sqo-j5PqUVDTz4gUn_Xy9Pji1Q" />
+---
+
+
+
+
+  <style>
+    body {
+      background-image: url("../resources/images/LMS_Building.jpg");
+      background-size: contain;/*cover / contain */
+      background-position: center top; /*20% or 20px*/
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      margin: 0;    
+      margin-top: 8vh;
+    }
+      .page_contente {
+      margin-top: -15vh; 
+    }
+  </style>
+
+
+
+
+:::::{.page_contente}
+:::{#hero-heading}
+
+# Welcome,
+
+to the Soft Tissue Biomechanics research group. We are a dedicated multidisciplinary team within the [Laboratoire de Mécanique des Solides (LMS)](https://lms.ip-paris.fr/) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
+
+Our primary scientific mission is to advance healthcare by bridging the gap between engineering and medicine. We apply rigorous **mechanics-dominant methodologies**—combining advanced experimental characterization with predictive computational modeling—to decipher the complex physical behavior of biological soft tissues across multiple scales. From understanding the mechanical pathways of pathology to designing biomimetic materials, we transform physical insights into biomedical innovations.
+
+<div class="mt-4 d-flex justify-content-start align-items-center gap-2">
+  <a href="research.qmd" class="btn btn-outline-primary btn-sm" role="button">Learn more about our Research</a>
+  <a href="members.qmd" class="btn btn-outline-primary btn-sm" role="button">Meet the Team</a>
+</div>
+
+:::
+:::::

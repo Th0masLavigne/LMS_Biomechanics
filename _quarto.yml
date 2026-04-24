@@ -1,0 +1,86 @@
+project:
+  type: website
+  resources:
+    - "resources"
+    - "news"
+    - "projects"
+    - "resources/pages_style/style.css"
+    - "resources/pages_style/style_site.scss"
+    - "resources/pages_style/style_site_dark.scss"
+    - "resources/pages_style/Hal_css.css"
+    - "resources/pages_style/Hal_css_dark.css"
+    - "resources/pages_style/custom_hal.js"
+    - "resources/pages_style/carousel.js"
+  output-dir: docs
+
+
+# https://icon-sets.iconify.design/ion/?icon-filter=social
+website:
+  back-to-top-navigation: true
+  page-navigation: true
+  bread-crumbs: true
+  open-graph: true
+  title: "Soft Tissue Biomechanics Group @ LMS"
+  image: resources/images/LMS_Building.jpg
+  favicon: resources/images/LMS_Logo.jpg
+  description: "Soft Tissue Biomechanics Group @ LMS. Cornea, Hydrogel, Smooth Muscle Cells."
+  site-url: https://th0maslavigne.github.io/LMS_Biomechanics
+  navbar:
+    right:
+      - href: contents/home.qmd
+        text: Home
+      - href: contents/news.qmd
+        text: News 
+      - text: Research
+        menu:
+          - href: contents/research.qmd
+            text: Projects
+          - href: contents/publications.qmd
+            text: Publications
+          - href: contents/members.qmd
+            text: Members
+          - href: contents/funds.qmd
+            text: Funds
+      - href: contents/opportunities.qmd
+        text: Open Positions
+      - href: contents/contact.qmd
+        text: Contact
+      - text: "{{< iconify fa6-brands gitlab >}}" # Use a more standard icon set name
+        href: https://src.koda.cnrs.fr/lms1
+        aria-label: GitLab
+  page-footer: 
+    right: |
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li>📍 <a href="https://lms.ip-paris.fr">Laboratoire de Mécanique des Solides</a>, CNRS UMR 7649, Ecole Polytechnique, 91128 PALAISEAU</li>
+      </ul>
+
+    center:
+      - icon: gitlab
+        href: https://src.koda.cnrs.fr/lms1
+      - icon: "{{< iconify streamline-plump:browser-website-1-remix >}}"
+
+    left: |
+      <small>
+        &copy; 2025 Soft Tissue Biomechanics Group — All rights reserved.<br>
+        <li>📧 <a href="https://th0maslavigne.github.io/LMS_Biomechanics/contact.html">Contact us</a></li>
+      </small>
+
+
+# https://quarto.org/docs/output-formats/html-themes.html
+format:
+  html:
+    email-obfuscation: javascript
+    theme:
+      light: [flatly,../resources/pages_style/style_site.scss]
+      dark: [darkly,../resources/pages_style/style_site_dark.scss]
+    respect-user-color-scheme: true
+    css: resources/pages_style/styles.css
+    toc: true
+    smooth-scroll: true
+    include-after-body:
+      text: |
+        <script type="application/javascript" src="../resources/pages_style/custom_hal.js"></script>
+        <script type="application/javascript" src="../resources/pages_style/carousel.js"></script>
+
+header-includes:
+  - <script src="../resources/pages_style/carousel.js"></script>
