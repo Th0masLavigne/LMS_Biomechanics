@@ -39,21 +39,31 @@ format:
 
 
 
-  <style>
+<style>
     body {
-      background-image: url("resources/images/LMS_Building_compressed.png");
-      background-size: contain;/*cover / contain */
-      background-position: center top; /*20% or 20px*/
-      background-repeat: no-repeat;
-      background-attachment: fixed;
       margin: 0;    
       margin-top: 8vh;
+      background-color: transparent !important; /* Empêche le thème Quarto de cacher l'image */
     }
-      .page_contente {
+
+    body::before {
+      content: "";
+      position: fixed; 
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: -1; 
+      background-image: url("resources/images/LMS_Building_compressed.png"); 
+      background-size: contain; 
+      background-position: center top;
+      background-repeat: no-repeat;
+    }
+
+    .page_contente {
       margin-top: -15vh; 
     }
   </style>
-
 
 
 
