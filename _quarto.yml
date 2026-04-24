@@ -22,7 +22,7 @@ website:
   open-graph: true
   title: "Soft Tissue Biomechanics Group @ LMS"
   image: resources/images/LMS_Building.jpg
-  favicon: resources/images/LMS_Logo.jpg
+  favicon: resources/images/LMS_Logo.png
   description: "Soft Tissue Biomechanics Group @ LMS. Cornea, Hydrogel, Smooth Muscle Cells."
   site-url: https://th0maslavigne.github.io/LMS_Biomechanics
   navbar:
