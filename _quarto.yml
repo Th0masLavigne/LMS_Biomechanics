@@ -29,18 +29,18 @@ website:
     right:
       - href: home.qmd
         text: Home
-      - href: news.qmd
-        text: News 
+      - href: members.qmd
+        text: Members
       - text: Research
         menu:
           - href: research.qmd
             text: Projects
           - href: publications.qmd
             text: Publications
-          - href: members.qmd
-            text: Members
           - href: funds.qmd
             text: Funds
+      - href: news.qmd
+        text: News 
       - href: opportunities.qmd
         text: Open Positions
       - href: contact.qmd
@@ -77,10 +77,10 @@ format:
     css: resources/pages_style/styles.css
     toc: true
     smooth-scroll: true
-    include-after-body:
-      text: |
-        <script type="application/javascript" src="resources/pages_style/custom_hal.js"></script>
-        <script type="application/javascript" src="resources/pages_style/carousel.js"></script>
+#     include-after-body:
+#       text: |
+#         <script type="application/javascript" src="resources/pages_style/custom_hal.js"></script>
+#         <script type="application/javascript" src="resources/pages_style/carousel.js"></script>
 
-header-includes:
-  - <script src="resources/pages_style/carousel.js"></script>
+# header-includes:
+#   - <script src="resources/pages_style/carousel.js"></script>

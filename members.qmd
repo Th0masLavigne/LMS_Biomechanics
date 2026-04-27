@@ -1,27 +1,71 @@
 ---
 title: "Group Members"
-format: html
+page-layout: full
+listing:
+  - id: pis
+    contents: "members/pis/*.qmd"
+    type: default
+    image-align: left
+    image-height: 150px
+    fields: [image, title, subtitle, description]
+    sort-ui: false
+    filter-ui: false
+  
+  - id: postdocs
+    contents: "members/postdocs/*.qmd"
+    type: default
+    image-align: left
+    image-height: 150px
+    fields: [image, title, subtitle, description]
+    sort-ui: false
+    filter-ui: false
+
+  - id: phds
+    contents: "members/phds/*.qmd"
+    type: default
+    image-align: left
+    image-height: 150px
+    fields: [image, title, subtitle, description]
+    sort-ui: false
+    filter-ui: false
+    
+  - id: interns
+    contents: "members/interns/*.qmd"
+    type: default
+    image-align: left
+    image-height: 150px
+    fields: [image, title, subtitle, description]
+    sort-ui: false
+    filter-ui: false
+    
+  - id: alumni
+    contents: "members/alumnis/*.qmd"
+    type: default
+    image-align: left
+    image-height: 150px
+    fields: [image, title, subtitle, description]
+    sort-ui: false
+    filter-ui: false
 ---
 
-* Principal Investigators (PIs)
-* Postdoctoral Researchers
-* PhD Students
-* Master’s Students
-* Alumni
+:::: {style='margin-top: 3em;'}
+## Principal Investigators (PIs)
+:::{#pis}
+:::
 
+## Postdoctoral Researchers
+:::{#postdocs}
+:::
 
+## PhD Students
+:::{#phds}
+:::
 
-Post-doc : Katka et TL + Guillaume Lafitte (Chloé)
-Doctorants :
+## Interns
+:::{#interns}
+:::
+::::
 
-Mariana
-Simon
-Julien
-Qian Wu (soutenance en 2025)
-Giulia Merlini (soutenance en 2025)
-Stagaires (en cours)
-Margaux Mercier
-Odette
-Parsa
-Madouba Sangare (2025)
-Siyue Peng (2025)
+## Alumni
+:::{#alumnis}
+:::

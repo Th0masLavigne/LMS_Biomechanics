@@ -5,7 +5,7 @@ format: html
 
 A adapter comme projects de ma page
 
-Our team specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.
+Our group specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.
 
 **Jump to:**
 [ `Cornea Mechanics` `href="#cornea"` ] | [ `Ocular Mechanics` `href="#eye"` ] | [ `Blood Clots & Hemostasis` `href="#clot"` ] | [ `Hydrogels & Biomaterials` `href="#hydrogel"` ] | [ `Other Tissues` `href="#others"` ]

@@ -1,5 +1,6 @@
 ---
-title: Soft Tissue Biomechanics Group @ LMS
+title: Soft Tissue Biomechanics Group @ [LMS](https://lms.ip-paris.fr/)
+page-layout: full
 image: resources/images/home_page_image_2.png
 bibliography: resources/biblio/biblio_web.bib
 toc: false
@@ -38,9 +39,25 @@ format:
 
 
 
-
 <style>
-  /* 1. On force la transparence de TOUTE la structure Quarto */
+  /* --- 1. Background Image Setup --- */
+  body::before {
+    content: "";
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 60vh;
+    z-index: -2; 
+    background-image: url("resources/images/LMS_Building.jpg");
+    background-size: cover; 
+    
+    /* FIX: Keep the building dead center. 'cover' will naturally crop the sky and street without losing the building. */
+    background-position: center center; 
+    background-repeat: no-repeat;
+  }
+
+  /* Make underlying Quarto structure transparent */
   body, 
   #quarto-content, 
   .quarto-container, 
@@ -49,27 +66,43 @@ format:
     background-color: transparent !important;
   }
 
-  /* 2. On configure le fond sur le Body (avec le correctif Safari) */
-  body::before {
-    content: "";
-    position: fixed; 
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -2; /* On le met tout au fond */
-    background-image: url("resources/images/LMS_Building.jpg");
-    background-size: contain; 
-    background-position: center top;
-    background-repeat: no-repeat;
-  }
-
-  /* 3. On s'assure que la section About reste lisible (opaque) */
-  .quarto-about-trestles {
+  /* --- 2. The Full-Bleed Content Box --- */
+  div.quarto-about-trestles {
     background-color: var(--bs-body-bg) !important;
     z-index: 1;
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    border-radius: 0 !important;
+
+    /* FIX: Lock the vertical drop so it NEVER jumps up to cover the building */
+    margin-top: 60vh !important; 
+    
+    /* Default padding for small screens */
+    padding: 3rem 5% !important; 
   }
 
+  /* --- 3. RESPONSIVE DESIGN (Horizontal Only!) --- */
+  
+  /* Medium Desktop Screens */
+  @media (min-width: 992px) {
+    div.quarto-about-trestles {
+      /* Only squeeze the sides inward, keep the top alone */
+      padding-left: 15vw !important; 
+      padding-right: 15vw !important;
+    }
+  }
+
+  /* Ultra-Wide Desktop Screens */
+  @media (min-width: 1400px) {
+    div.quarto-about-trestles {
+      /* Squeeze a bit more for massive screens so text stays readable */
+      padding-left: 25vw !important; 
+      padding-right: 25vw !important;
+    }
+  }
+  
   .page_contente {
     margin-top: -15vh; 
   }
@@ -82,13 +115,13 @@ format:
 
 # Welcome,
 
-to the Soft Tissue Biomechanics research group. We are a dedicated multidisciplinary team within the [Laboratoire de Mécanique des Solides (LMS)](https://lms.ip-paris.fr/) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
+to the Soft Tissue Biomechanics research group. We are a dedicated multidisciplinary group within the [Laboratoire de Mécanique des Solides (LMS)](https://lms.ip-paris.fr/) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
 
 Our primary scientific mission is to advance healthcare by bridging the gap between engineering and medicine. We apply rigorous **mechanics-dominant methodologies**—combining advanced experimental characterization with predictive computational modeling—to decipher the complex physical behavior of biological soft tissues across multiple scales. From understanding the mechanical pathways of pathology to designing biomimetic materials, we transform physical insights into biomedical innovations.
 
 <div class="mt-4 d-flex justify-content-start align-items-center gap-2">
   <a href="research.qmd" class="btn btn-outline-primary btn-sm" role="button">Learn more about our Research</a>
-  <a href="members.qmd" class="btn btn-outline-primary btn-sm" role="button">Meet the Team</a>
+  <a href="members.qmd" class="btn btn-outline-primary btn-sm" role="button">Meet the group @ LMS</a>
 </div>
 
 :::
