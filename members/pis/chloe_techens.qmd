@@ -1,5 +1,5 @@
 ---
-title: "Chloé Teschens"
+title: "Chloé Techens"
 subtitle: "Assistant Professor"
 image: ../../resources/images/members/pis/chloe_techens.jpeg
 description: "Email: chloe.techens@polytechnique.edu <br> Room: 104-20-67"
