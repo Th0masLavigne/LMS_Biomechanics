@@ -1,6 +1,7 @@
 ---
 title: "Chloé Techens"
 subtitle: "Assistant Professor"
+order: 2
 image: ../../resources/images/members/pis/chloe_techens.jpeg
 description: "Email: chloe.techens@polytechnique.edu <br> Room: 104-20-67"
 about:
@@ -27,6 +28,8 @@ about:
 :::
 
 **Chloé Techens** is an Assistant Professor at École Polytechnique (Institut Polytechnique de Paris), having recently transitioned from a postdoctoral fellowship in cardiovascular mechanobiology at École des Mines de Saint-Étienne (Sainbiose laboratory). She defended her PhD in Health Technologies in 2022 at the University of Bologna (Italy) in collaboration with the National Center for Spinal Disorders in Budapest (Hungary). Her academic background also includes dual Master's degrees in Health Engineering from KTH Royal Institute of Technology (Sweden) and Mechanics of Materials from École Centrale Nantes (France).
+
+---
 
 ### Research Interests
 

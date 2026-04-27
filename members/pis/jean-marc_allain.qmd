@@ -1,6 +1,7 @@
 ---
 title: "Jean-Marc ALLAIN"
 subtitle: "Professor"
+order: 1
 image: ../../resources/images/members/pis/jean-marc_allain.jpg
 description: "Email: jean-marc.allain@polytechnique.edu <br> Room: 104-20-72"
 about:
@@ -30,6 +31,8 @@ about:
 
 
 **Jean-Marc Allain** is a faculty member (Associate Professor / *Professeur chargé de cours*) in the Department of Mechanics at École Polytechnique (Institut Polytechnique de Paris). He conducts his research at the **Solid Mechanics Laboratory (LMS)** and was part of the **M3DISIM** research team (a joint research group involving École Polytechnique, CNRS, and Inria). He defended his PhD in physics in 2005 at Université Paris 7, focusing on the "*Instabilities of inhomogeneous lipid membranes: biological implications*."
+
+---
 
 ### Research Interests
 

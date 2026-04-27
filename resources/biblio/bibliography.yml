@@ -5,6 +5,7 @@
   path: "https://doi.org/10.1002/cnm.70066"
   description: "[DOI](https://doi.org/10.1002/cnm.70066) [arXiv](https://arxiv.org/abs/2502.17354)"
   categories: ["2025", "Journal Article"]
+  tags: ["Soft Matter", "Skin", "Others"]
 
 - title: "Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis"
   author: "Thomas Lavigne, Camilo Andrés Suarez Afanador, Anas Obeidat, Stéphane Urcun"

@@ -7,7 +7,8 @@ listing:
   sort: "date desc"
   date-format: "YYYY" # Forces just the year to show
   categories: true
-  fields: [date, title, author, journal, description] # Added description here
+  filter-ui: true
+  fields: [date, title, author, journal, description, tags] # Added description here
 ---
 
 <style>
@@ -56,6 +57,29 @@ listing:
   .listing-description a:hover {
     background-color: var(--bs-gray-200);
   }
+
 </style>
 
 Here is the complete list of our research publications. You can click on the years or categories on the right to filter the list.
+
+<script>
+window.addEventListener("load", function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const searchQuery = urlParams.get('search');
+  
+  if (searchQuery) {
+    // Look specifically for Quarto's search input class
+    const searchBox = document.querySelector('input.search');
+    
+    if (searchBox) {
+      // Type the query into the box
+      searchBox.value = searchQuery;
+      
+      // Fire all possible events to wake up Quarto's List.js filtering engine
+      searchBox.dispatchEvent(new Event('input', { bubbles: true }));
+      searchBox.dispatchEvent(new Event('keyup', { bubbles: true }));
+      searchBox.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+  }
+});
+</script>
