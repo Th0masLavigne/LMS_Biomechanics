@@ -11,7 +11,42 @@
     "href": "members.html",
     "title": "Group Members",
     "section": "",
-    "text": "Principal Investigators (PIs)\nPostdoctoral Researchers\nPhD Students\nMaster’s Students\nAlumni\n\nPost-doc : Katka et TL + Guillaume Lafitte (Chloé) Doctorants :\nMariana Simon Julien Qian Wu (soutenance en 2025) Giulia Merlini (soutenance en 2025) Stagaires (en cours) Margaux Mercier Odette Parsa Madouba Sangare (2025) Siyue Peng (2025)\n\n\n\n Back to top"
+    "text": "Assistant Professor\n\n\nEmail: chloe.techens@polytechnique.edu  Room: 104-20-67\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\nEmail: name@institute.edu  Room: 402\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor\n\n\nEmail: jean-marc.allain@polytechnique.edu  Room: 104-20-72\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD student\n\n\nThesis defense expected: 2025  Supervisors: PI 1 & PI 2  Title: Project Name  Room: 402\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster’s Intern\n\n\nDates: Jan 2025 - June 2025  Project: Hydrogel Mechanics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#principal-investigators-pis",
+    "href": "members.html#principal-investigators-pis",
+    "title": "Group Members",
+    "section": "",
+    "text": "Assistant Professor\n\n\nEmail: chloe.techens@polytechnique.edu  Room: 104-20-67\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\nEmail: name@institute.edu  Room: 402\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor\n\n\nEmail: jean-marc.allain@polytechnique.edu  Room: 104-20-72\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#postdoctoral-researchers",
+    "href": "members.html#postdoctoral-researchers",
+    "title": "Group Members",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "members.html#phd-students",
+    "href": "members.html#phd-students",
+    "title": "Group Members",
+    "section": "",
+    "text": "PhD student\n\n\nThesis defense expected: 2025  Supervisors: PI 1 & PI 2  Title: Project Name  Room: 402\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#interns",
+    "href": "members.html#interns",
+    "title": "Group Members",
+    "section": "",
+    "text": "Master’s Intern\n\n\nDates: Jan 2025 - June 2025  Project: Hydrogel Mechanics\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#alumni",
+    "href": "members.html#alumni",
+    "title": "Group Members",
+    "section": "Alumni",
+    "text": "Alumni"
   },
   {
     "objectID": "opportunities.html",
@@ -25,7 +60,7 @@
     "href": "research.html",
     "title": "Research Activities",
     "section": "",
-    "text": "A adapter comme projects de ma page\nOur team specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.\nJump to: [ Cornea Mechanics href=\"#cornea\" ] | [ Ocular Mechanics href=\"#eye\" ] | [ Blood Clots & Hemostasis href=\"#clot\" ] | [ Hydrogels & Biomaterials href=\"#hydrogel\" ] | [ Other Tissues href=\"#others\" ]"
+    "text": "A adapter comme projects de ma page\nOur group specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.\nJump to: [ Cornea Mechanics href=\"#cornea\" ] | [ Ocular Mechanics href=\"#eye\" ] | [ Blood Clots & Hemostasis href=\"#clot\" ] | [ Hydrogels & Biomaterials href=\"#hydrogel\" ] | [ Other Tissues href=\"#others\" ]"
   },
   {
     "objectID": "research.html#section",
@@ -33,6 +68,48 @@
     "title": "Research Activities",
     "section": "",
     "text": "## Corneal Mechanics & Refractive Surgery We investigate the intricate lamellar microstructure of the cornea to predict its response to surgical interventions (like LASIK or cross-linking) and degenerative diseases (such as keratoconus). Our approach combines inflation tests with microstructure-informed finite element models to characterize anisotropy and collagen remodeling. * Key topics: Corneal anisotropy, refractive surgery simulation, collagen fiber remodeling models. * [ Relevant Publications href=\"#/publications?tag=cornea\" ]\n\n ## Full Ocular Mechanics Beyond the cornea, we model the mechanical environment of the entire eye globe. This includes analyzing the biomechanical factors contributing to glaucoma (optic nerve head deformation) and vitreoretinal interaction, treating the eye as a complex, pressurized multi-material system. * Key topics: Glaucoma biomechanics, optic nerve head deformation, intraocular pressure modeling. * [ Relevant Publications href=\"#/publications?tag=eye\" ]\n\n ## Mechanics of Blood Clots & Hemostasis Understanding the mechanics of thrombus formation and dissolution is crucial for tackling cardiovascular diseases. We characterize the viscoelastic and fracture properties of fibrin networks and blood clots under physiological flow conditions, aiming to predict clot stability, embolization risks, and the efficacy of thrombolytic therapies. * Key topics: Thrombus visco-hyperelasticity, fracture mechanics of fibrin, fluid-structure interaction in thrombosis. * [ Relevant Publications href=\"#/publications?tag=clot\" ]\n\n ## Synthetic Hydrogels & Biomimetic Materials Hydrogels are essential tools for tissue engineering and mechanobiology. We study the nonlinear, time-dependent mechanics of synthetic and natural hydrogels to tailor their properties for specific biomedical applications, such as developing scaffolds that mimic the mechanical niche of Smooth Muscle Cells (SMCs). * Key topics: Viscoelasticity of hydrogels, porous media mechanics, biomimetic scaffold design. * [ Relevant Publications href=\"#/publications?tag=hydrogel\" ]\n\n ## Fundamental Soft Matter Mechanics & Others We also apply our expertise to general problems in soft matter and active tissue mechanics, including cell-matrix interactions and the fundamental behavior of other soft biological tissues (vascular, skin, etc.) using novel experimental and numerical tools. * Key topics: Smooth muscle cell mechanics, tissue growth and atrophy, inverse modeling techniques. * [ Relevant Publications href=\"#/publications?tag=others\" ]"
+  },
+  {
+    "objectID": "members/phds/template.html",
+    "href": "members/phds/template.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nThesis topic, abstract, and background…\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/pis/template.html",
+    "href": "members/pis/template.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nBiography and research interests go here…\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/pis/chloe_teschens.html",
+    "href": "members/pis/chloe_teschens.html",
+    "title": "Chloé Teschens",
+    "section": "",
+    "text": "Scholar\n  \n  \n    \n     IP Paris\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nChloé Techens is an Assistant Professor at École Polytechnique (Institut Polytechnique de Paris), having recently transitioned from a postdoctoral fellowship in cardiovascular mechanobiology at École des Mines de Saint-Étienne (Sainbiose laboratory). She defended her PhD in Health Technologies in 2022 at the University of Bologna (Italy) in collaboration with the National Center for Spinal Disorders in Budapest (Hungary). Her academic background also includes dual Master’s degrees in Health Engineering from KTH Royal Institute of Technology (Sweden) and Mechanics of Materials from École Centrale Nantes (France).\n\nResearch Interests\nChloé Techens’ research bridges the gap between fundamental mechanics and clinical medical applications. She specializes in biomechanics and mechanobiology, focusing on how mechanical stimuli influence cellular behavior and how biological tissues behave across multiple scales.\nHer main areas of research include:\n\nCardiovascular Mechanobiology: Investigating cell-matrix interactions and the mechanoregulation of vascular smooth muscle cells to better understand and prevent vascular diseases like aortic aneurysm dissections.\nSpine Biomechanics and Orthopedics: Assessing the biomechanical consequences of minimally invasive surgical treatments (such as percutaneous cement discoplasty) for advanced intervertebral disc degeneration.\nExperimental and Optical Methodologies: Utilizing advanced imaging and measurement techniques, such as 3D Traction Force Microscopy and Digital Image Correlation (DIC), often at the microscopic scale using microstructured hydrogels.\nTissue Characterization and Modeling: Designing in vitro and ex vivo models to evaluate novel biomaterials, orthopedic devices, and complex loading scenarios on biological tissues.\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/pis/jean-marc_allain.html",
+    "href": "members/pis/jean-marc_allain.html",
+    "title": "Jean-Marc ALLAIN",
+    "section": "",
+    "text": "ORCID\n  \n  \n    \n     WebofScience\n  \n  \n    \n     Gitlab\n  \n  \n    \n     Ecole Polytechnique Profile\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nJean-Marc Allain is a faculty member (Associate Professor / Professeur chargé de cours) in the Department of Mechanics at École Polytechnique (Institut Polytechnique de Paris). He conducts his research at the Solid Mechanics Laboratory (LMS) and was part of the M3DISIM research team (a joint research group involving École Polytechnique, CNRS, and Inria). He defended his PhD in physics in 2005 at Université Paris 7, focusing on the “Instabilities of inhomogeneous lipid membranes: biological implications.”\n\nResearch Interests\nJean-Marc Allain’s research sits at the intersection of mechanics, biology, and physics. His work focuses primarily on biomechanics and multiscale experimental mechanobiology, with the overarching goal of linking the microstructure of biological tissues to their macroscopic mechanical properties.\nHis main areas of research include:\n\nSkin Mechanics and Aging: Studying the mechanical behavior of the dermis and the organization of its collagen fibers (e.g., using multiphoton microscopy) to understand how aging impacts the skin.\nVascular Mechanics and Clot Microstructure: Analyzing the organization of the fibrin network and the rheology of blood clots to better evaluate and prevent the risks of thrombosis and pulmonary embolism.\nBiomechanics of the Eye: Investigating the mechanics of the cornea, particularly concerning the effects of surgery or the development of biomimetic artificial corneas.\nPlant Mechanobiology: Studying the mechanical and electrical responses of plants to external stresses (such as wind) and the involvement of mechanosensitive ion channels in cell membranes.\nBacterial Biomechanics: Understanding the mechanical properties and cohesion of bacterial biofilms (for example, Bacillus subtilis).\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/alumnis/template.html",
+    "href": "members/alumnis/template.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nDetails about their time in the lab, their thesis, and a link to their final manuscript if applicable…\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/interns/template.html",
+    "href": "members/interns/template.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nSummary of the internship project, university affiliation, and background…\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "news.html",
