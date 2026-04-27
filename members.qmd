@@ -49,6 +49,8 @@ listing:
 ---
 
 :::: {style='margin-top: 3em;'}
+::::
+
 ## Principal Investigators (PIs)
 :::{#pis}
 :::
@@ -64,7 +66,6 @@ listing:
 ## Interns
 :::{#interns}
 :::
-::::
 
 ## Alumni
 :::{#alumnis}
