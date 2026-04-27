@@ -23,26 +23,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -53,6 +34,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./resources/images/LMS_Logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -95,8 +78,66 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-journal','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-journal","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="resources/pages_style/styles.css">
 <meta property="og:title" content="Publications – Soft Tissue Biomechanics Group @ LMS">
@@ -348,9 +389,9 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="MjAyMA==">2020 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAyMg==">2022 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MjAyMw==">2023 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MjAyNA==">2024 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAyNQ==">2025 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Sm91cm5hbCUyMEFydGljbGU=">Journal Article <span class="quarto-category-count">(7)</span></div><div class="category" data-category="UHJlcHJpbnQ=">Preprint <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -374,37 +415,274 @@ div.csl-indent {
 </header>
 
 
-<p>Here is the complete list of our research publications:</p>
-<div id="refs" class="references csl-bib-body hanging-indent" style="max-height: 450px; overflow-y: auto; border: 1px solid var(--bs-border-color); padding: 20px; border-radius: 8px;" role="list">
-<div id="ref-Auger2020" class="csl-entry" role="listitem">
-<span class="nocase">Auger, Patrick, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, and François Hild</span>. 2020. <span>“Poynting Effects in Pantographic Metamaterial Captured via Multiscale DVC.”</span> <em>The Journal of Strain Analysis for Engineering Design</em> 56 (7): 462–77. <a href="https://doi.org/10.1177/0309324720976625">https://doi.org/10.1177/0309324720976625</a>.
-</div>
-<div id="ref-Lavigne2023b" class="csl-entry" role="listitem">
-Lavigne, T., S. P. A. Bordas, and J. Lengiewicz. 2023. <span>“Identification of Material Parameters and Traction Field for Soft Bodies in Contact.”</span> <em>Computer Methods in Applied Mechanics and Engineering</em> 406 (March): 115889. <a href="https://doi.org/10.1016/j.cma.2023.115889">https://doi.org/10.1016/j.cma.2023.115889</a>.
-</div>
-<div id="ref-lavigne2025synthetic" class="csl-entry" role="listitem">
-Lavigne, Thomas, Camilo Andrés Suarez Afanador, Anas Obeidat, and Stéphane Urcun. 2025. <em>Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis</em>. <a href="https://arxiv.org/abs/2502.14518">https://arxiv.org/abs/2502.14518</a>.
-</div>
-<div id="ref-Lavigne2025b" class="csl-entry" role="listitem">
-Lavigne, Thomas, Stéphane Urcun, Bérengère Fromy, et al. 2025. <span>“Hierarchical Poromechanical Approach to Investigate the Impact of Mechanical Loading on Human Skin Micro-Circulation.”</span> <em>International Journal for Numerical Methods in Biomedical Engineering</em>, ahead of print. <a href="https://doi.org/10.1002/cnm.70066">https://doi.org/10.1002/cnm.70066</a>.
-</div>
-<div id="ref-Lavigne2024" class="csl-entry" role="listitem">
-Lavigne, Thomas, Stéphane Urcun, Emmanuelle Jacquet, et al. 2024. <span>“Poromechanical Modelling of the Time-Dependent Response of in Vivo Human Skin During Extension.”</span> In <em>International Journal for Numerical Methods in Biomedical Engineering</em>. International Journal for Numerical Methods in Biomedical Engineering. <a href="https://doi.org/10.48550/ARXIV.2412.07374">https://doi.org/10.48550/ARXIV.2412.07374</a>.
-</div>
-<div id="ref-Lavigne2023" class="csl-entry" role="listitem">
-Lavigne, Thomas, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, and Stéphane P. A. Bordas. 2023. <span>“Single and Bi-Compartment Poro-Elastic Model of Perfused Biological Soft Tissues: FEniCSx Implementation and Tutorial.”</span> <em>Journal of the Mechanical Behavior of Biomedical Materials</em> 143 (July): 105902. <a href="https://doi.org/10.1016/j.jmbbm.2023.105902">https://doi.org/10.1016/j.jmbbm.2023.105902</a>.
-</div>
-<div id="ref-Lavigne2022b" class="csl-entry" role="listitem">
-Lavigne, T., A. Mazier, A. Perney, S. P. A. Bordas, F. Hild, and J. Lengiewicz. 2022. <span>“Digital Volume Correlation for Large Deformations of Soft Tissues: Pipeline and Proof of Concept for the Application to Breast Ex Vivo Deformations.”</span> <em>Journal of the Mechanical Behavior of Biomedical Materials</em> 136 (December): 105490. <a href="https://doi.org/10.1016/j.jmbbm.2022.105490">https://doi.org/10.1016/j.jmbbm.2022.105490</a>.
-</div>
-<div id="ref-Lavigne2022" class="csl-entry" role="listitem">
-Lavigne, T., G. Sciumè, S. Laporte, et al. 2022. <span>“Société de Biomécanique Young Investigator Award 2021: Numerical Investigation of the Time-Dependent Stress–Strain Mechanical Behaviour of Skeletal Muscle Tissue in the Context of Pressure Ulcer Prevention.”</span> <em>Clinical Biomechanics</em> 93 (March): 105592. <a href="https://doi.org/10.1016/j.clinbiomech.2022.105592">https://doi.org/10.1016/j.clinbiomech.2022.105592</a>.
-</div>
-</div>
+<style>
+  /* Stack the layout vertically instead of squishing columns */
+  .quarto-listing-default .listing-item {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid var(--bs-border-color-translucent);
+  }
+  
+  /* Make dates bold and prominent */
+  .quarto-listing-default .listing-date {
+    font-weight: bold;
+    color: var(--bs-primary);
+    margin-bottom: 0.3rem;
+  }
+  
+  /* Resize the giant title */
+  .listing-title {
+    font-size: 1.25rem !important;
+    margin-bottom: 0.3rem;
+  }
+  
+  /* Give authors full width and a slightly muted color */
+  .quarto-listing-default .listing-author {
+    max-width: 100% !important;
+    color: var(--bs-gray-700);
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Style links in the description to look like buttons */
+  .listing-description a {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    margin-top: 0.2rem;
+    margin-right: 0.5rem;
+    background-color: var(--bs-light);
+    border: 1px solid var(--bs-border-color);
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    color: var(--bs-body-color);
+  }
+  .listing-description a:hover {
+    background-color: var(--bs-gray-200);
+  }
+</style>
+<p>Here is the complete list of our research publications. You can click on the years or categories on the right to filter the list.</p>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-journal" data-direction="asc">
+        journal
+      </option>
+      <option value="listing-description" data-direction="asc">
+        Description
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-journal" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">journal</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Description</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="MjAyNSUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1735689600000" data-listing-title-sort="Hierarchical poromechanical approach to investigate the impact of mechanical loading on human skin micro-circulation">
+<td>
+<span class="listing-date">2025</span>
+</td>
+<td>
+<a href="https://doi.org/10.1002/cnm.70066" class="title listing-title">Hierarchical poromechanical approach to investigate the impact of mechanical loading on human skin micro-circulation</a>
+</td>
+<td>
+<span class="listing-author">Thomas Lavigne, Stéphane Urcun, Bérengère Fromy, Audrey Josset-Lamaugarny, Alexandre Lagache, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Pierre-Yves Rohan, Giuseppe Sciumè</span>
+</td>
+<td>
+<span class="listing-journal">International Journal for Numerical Methods in Biomedical Engineering</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.1002/cnm.70066">DOI</a> <a href="https://arxiv.org/abs/2502.17354">arXiv</a></span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="MjAyNSUyQ1ByZXByaW50" data-listing-date-sort="1735689600000" data-listing-title-sort="Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis">
+<td>
+<span class="listing-date">2025</span>
+</td>
+<td>
+<a href="https://arxiv.org/abs/2502.14518" class="title listing-title">Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis</a>
+</td>
+<td>
+<span class="listing-author">Thomas Lavigne, Camilo Andrés Suarez Afanador, Anas Obeidat, Stéphane Urcun</span>
+</td>
+<td>
+<span class="listing-journal">arXiv preprint</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://arxiv.org/abs/2502.14518">arXiv</a></span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="MjAyNCUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1704067200000" data-listing-title-sort="Poromechanical modelling of the time-dependent response of in vivo human skin during extension">
+<td>
+<span class="listing-date">2024</span>
+</td>
+<td>
+<a href="https://arxiv.org/abs/2412.07374" class="title listing-title">Poromechanical modelling of the time-dependent response of in vivo human skin during extension</a>
+</td>
+<td>
+<span class="listing-author">Thomas Lavigne, Stéphane Urcun, Emmanuelle Jacquet, Jérôme Chambert, Aflah Elouneg, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Giuseppe Sciumè, Pierre-Yves Rohan</span>
+</td>
+<td>
+<span class="listing-journal">International Journal for Numerical Methods in Biomedical Engineering</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.48550/ARXIV.2412.07374">DOI</a> <a href="https://arxiv.org/abs/2412.07374">arXiv</a></span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="MjAyMyUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1688169600000" data-listing-title-sort="Single and bi-compartment poro-elastic model of perfused biological soft tissues: FEniCSx implementation and tutorial">
+<td>
+<span class="listing-date">2023</span>
+</td>
+<td>
+<a href="https://doi.org/10.1016/j.jmbbm.2023.105902" class="title listing-title">Single and bi-compartment poro-elastic model of perfused biological soft tissues: FEniCSx implementation and tutorial</a>
+</td>
+<td>
+<span class="listing-author">Thomas Lavigne, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, Stéphane P.A. Bordas</span>
+</td>
+<td>
+<span class="listing-journal">Journal of the Mechanical Behavior of Biomedical Materials</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.1016/j.jmbbm.2023.105902">DOI</a></span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="MjAyMyUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1677628800000" data-listing-title-sort="Identification of material parameters and traction field for soft bodies in contact">
+<td>
+<span class="listing-date">2023</span>
+</td>
+<td>
+<a href="https://doi.org/10.1016/j.cma.2023.115889" class="title listing-title">Identification of material parameters and traction field for soft bodies in contact</a>
+</td>
+<td>
+<span class="listing-author">T. Lavigne, S.P.A. Bordas, J. Lengiewicz</span>
+</td>
+<td>
+<span class="listing-journal">Computer Methods in Applied Mechanics and Engineering</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.1016/j.cma.2023.115889">DOI</a></span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="MjAyMiUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1669852800000" data-listing-title-sort="Digital Volume Correlation for large deformations of soft tissues: Pipeline and proof of concept for the application to breast ex vivo deformations">
+<td>
+<span class="listing-date">2022</span>
+</td>
+<td>
+<a href="https://doi.org/10.1016/j.jmbbm.2022.105490" class="title listing-title">Digital Volume Correlation for large deformations of soft tissues: Pipeline and proof of concept for the application to breast ex vivo deformations</a>
+</td>
+<td>
+<span class="listing-author">T. Lavigne, A. Mazier, A. Perney, S.P.A. Bordas, F. Hild, J. Lengiewicz</span>
+</td>
+<td>
+<span class="listing-journal">Journal of the Mechanical Behavior of Biomedical Materials</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.1016/j.jmbbm.2022.105490">DOI</a></span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-categories="MjAyMiUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1646092800000" data-listing-title-sort="Société de Biomécanique Young Investigator Award 2021: Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention">
+<td>
+<span class="listing-date">2022</span>
+</td>
+<td>
+<a href="https://doi.org/10.1016/j.clinbiomech.2022.105592" class="title listing-title">Société de Biomécanique Young Investigator Award 2021: Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention</a>
+</td>
+<td>
+<span class="listing-author">T. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan</span>
+</td>
+<td>
+<span class="listing-journal">Clinical Biomechanics</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.1016/j.clinbiomech.2022.105592">DOI</a></span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-categories="MjAyMCUyQ0pvdXJuYWwlMjBBcnRpY2xl" data-listing-date-sort="1606780800000" data-listing-title-sort="Poynting effects in pantographic metamaterial captured via multiscale DVC">
+<td>
+<span class="listing-date">2020</span>
+</td>
+<td>
+<a href="https://doi.org/10.1177/0309324720976625" class="title listing-title">Poynting effects in pantographic metamaterial captured via multiscale DVC</a>
+</td>
+<td>
+<span class="listing-author">Patrick Auger, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, François Hild</span>
+</td>
+<td>
+<span class="listing-journal">The Journal of Strain Analysis for Engineering Design</span>
+</td>
+<td>
+<span class="listing-description"><a href="https://doi.org/10.1177/0309324720976625">DOI</a></span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

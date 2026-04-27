@@ -1,0 +1,63 @@
+- title: "Hierarchical poromechanical approach to investigate the impact of mechanical loading on human skin micro-circulation"
+  author: "Thomas Lavigne, Stéphane Urcun, Bérengère Fromy, Audrey Josset-Lamaugarny, Alexandre Lagache, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Pierre-Yves Rohan, Giuseppe Sciumè"
+  date: "2025-01-01"
+  journal: "International Journal for Numerical Methods in Biomedical Engineering"
+  path: "https://doi.org/10.1002/cnm.70066"
+  description: "[DOI](https://doi.org/10.1002/cnm.70066) [arXiv](https://arxiv.org/abs/2502.17354)"
+  categories: ["2025", "Journal Article"]
+
+- title: "Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis"
+  author: "Thomas Lavigne, Camilo Andrés Suarez Afanador, Anas Obeidat, Stéphane Urcun"
+  date: "2025-01-01"
+  journal: "arXiv preprint"
+  path: "https://arxiv.org/abs/2502.14518"
+  description: "[arXiv](https://arxiv.org/abs/2502.14518)"
+  categories: ["2025", "Preprint"]
+
+- title: "Poromechanical modelling of the time-dependent response of in vivo human skin during extension"
+  author: "Thomas Lavigne, Stéphane Urcun, Emmanuelle Jacquet, Jérôme Chambert, Aflah Elouneg, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Giuseppe Sciumè, Pierre-Yves Rohan"
+  date: "2024-01-01"
+  journal: "International Journal for Numerical Methods in Biomedical Engineering"
+  path: "https://arxiv.org/abs/2412.07374"
+  description: "[DOI](https://doi.org/10.48550/ARXIV.2412.07374) [arXiv](https://arxiv.org/abs/2412.07374)"
+  categories: ["2024", "Journal Article"]
+
+- title: "Single and bi-compartment poro-elastic model of perfused biological soft tissues: FEniCSx implementation and tutorial"
+  author: "Thomas Lavigne, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, Stéphane P.A. Bordas"
+  date: "2023-07-01"
+  journal: "Journal of the Mechanical Behavior of Biomedical Materials"
+  path: "https://doi.org/10.1016/j.jmbbm.2023.105902"
+  description: "[DOI](https://doi.org/10.1016/j.jmbbm.2023.105902)"
+  categories: ["2023", "Journal Article"]
+
+- title: "Identification of material parameters and traction field for soft bodies in contact"
+  author: "T. Lavigne, S.P.A. Bordas, J. Lengiewicz"
+  date: "2023-03-01"
+  journal: "Computer Methods in Applied Mechanics and Engineering"
+  path: "https://doi.org/10.1016/j.cma.2023.115889"
+  description: "[DOI](https://doi.org/10.1016/j.cma.2023.115889)"
+  categories: ["2023", "Journal Article"]
+
+- title: "Digital Volume Correlation for large deformations of soft tissues: Pipeline and proof of concept for the application to breast ex vivo deformations"
+  author: "T. Lavigne, A. Mazier, A. Perney, S.P.A. Bordas, F. Hild, J. Lengiewicz"
+  date: "2022-12-01"
+  journal: "Journal of the Mechanical Behavior of Biomedical Materials"
+  path: "https://doi.org/10.1016/j.jmbbm.2022.105490"
+  description: "[DOI](https://doi.org/10.1016/j.jmbbm.2022.105490)"
+  categories: ["2022", "Journal Article"]
+
+- title: "Société de Biomécanique Young Investigator Award 2021: Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention"
+  author: "T. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan"
+  date: "2022-03-01"
+  journal: "Clinical Biomechanics"
+  path: "https://doi.org/10.1016/j.clinbiomech.2022.105592"
+  description: "[DOI](https://doi.org/10.1016/j.clinbiomech.2022.105592)"
+  categories: ["2022", "Journal Article"]
+
+- title: "Poynting effects in pantographic metamaterial captured via multiscale DVC"
+  author: "Patrick Auger, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, François Hild"
+  date: "2020-12-01"
+  journal: "The Journal of Strain Analysis for Engineering Design"
+  path: "https://doi.org/10.1177/0309324720976625"
+  description: "[DOI](https://doi.org/10.1177/0309324720976625)"
+  categories: ["2020", "Journal Article"]
