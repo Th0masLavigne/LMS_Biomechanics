@@ -7,39 +7,32 @@
     "text": "Here is the complete list of our research publications:\n\n\nAuger, Patrick, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, and François Hild. 2020. “Poynting Effects in Pantographic Metamaterial Captured via Multiscale DVC.” The Journal of Strain Analysis for Engineering Design 56 (7): 462–77. https://doi.org/10.1177/0309324720976625.\n\n\nLavigne, T., S. P. A. Bordas, and J. Lengiewicz. 2023. “Identification of Material Parameters and Traction Field for Soft Bodies in Contact.” Computer Methods in Applied Mechanics and Engineering 406 (March): 115889. https://doi.org/10.1016/j.cma.2023.115889.\n\n\nLavigne, Thomas, Camilo Andrés Suarez Afanador, Anas Obeidat, and Stéphane Urcun. 2025. Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis. https://arxiv.org/abs/2502.14518.\n\n\nLavigne, Thomas, Stéphane Urcun, Bérengère Fromy, et al. 2025. “Hierarchical Poromechanical Approach to Investigate the Impact of Mechanical Loading on Human Skin Micro-Circulation.” International Journal for Numerical Methods in Biomedical Engineering, ahead of print. https://doi.org/10.1002/cnm.70066.\n\n\nLavigne, Thomas, Stéphane Urcun, Emmanuelle Jacquet, et al. 2024. “Poromechanical Modelling of the Time-Dependent Response of in Vivo Human Skin During Extension.” In International Journal for Numerical Methods in Biomedical Engineering. International Journal for Numerical Methods in Biomedical Engineering. https://doi.org/10.48550/ARXIV.2412.07374.\n\n\nLavigne, Thomas, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, and Stéphane P. A. Bordas. 2023. “Single and Bi-Compartment Poro-Elastic Model of Perfused Biological Soft Tissues: FEniCSx Implementation and Tutorial.” Journal of the Mechanical Behavior of Biomedical Materials 143 (July): 105902. https://doi.org/10.1016/j.jmbbm.2023.105902.\n\n\nLavigne, T., A. Mazier, A. Perney, S. P. A. Bordas, F. Hild, and J. Lengiewicz. 2022. “Digital Volume Correlation for Large Deformations of Soft Tissues: Pipeline and Proof of Concept for the Application to Breast Ex Vivo Deformations.” Journal of the Mechanical Behavior of Biomedical Materials 136 (December): 105490. https://doi.org/10.1016/j.jmbbm.2022.105490.\n\n\nLavigne, T., G. Sciumè, S. Laporte, et al. 2022. “Société de Biomécanique Young Investigator Award 2021: Numerical Investigation of the Time-Dependent Stress–Strain Mechanical Behaviour of Skeletal Muscle Tissue in the Context of Pressure Ulcer Prevention.” Clinical Biomechanics 93 (March): 105592. https://doi.org/10.1016/j.clinbiomech.2022.105592.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Group Members",
-    "section": "",
-    "text": "Assistant Professor\n\n\nEmail: chloe.techens@polytechnique.edu  Room: 104-20-67\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\nEmail: name@institute.edu  Room: 402\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor\n\n\nEmail: jean-marc.allain@polytechnique.edu  Room: 104-20-72\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD student\n\n\nThesis defense expected: 2025  Supervisors: PI 1 & PI 2  Title: Project Name  Room: 402\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster’s Intern\n\n\nDates: Jan 2025 - June 2025  Project: Hydrogel Mechanics\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "members.html#principal-investigators-pis",
     "href": "members.html#principal-investigators-pis",
     "title": "Group Members",
-    "section": "",
-    "text": "Assistant Professor\n\n\nEmail: chloe.techens@polytechnique.edu  Room: 104-20-67\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\nEmail: name@institute.edu  Room: 402\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor\n\n\nEmail: jean-marc.allain@polytechnique.edu  Room: 104-20-72\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "Principal Investigators (PIs)",
+    "text": "Principal Investigators (PIs)\n\n\n\n\n\n\n\n\n\n\nChloé Teschens\n\n\nAssistant Professor\n\n\nEmail: chloe.techens@polytechnique.edu  Room: 104-20-67\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\nPrincipal Investigator\n\n\nEmail: name@institute.edu  Room: 402\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJean-Marc ALLAIN\n\n\nProfessor\n\n\nEmail: jean-marc.allain@polytechnique.edu  Room: 104-20-72\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#postdoctoral-researchers",
     "href": "members.html#postdoctoral-researchers",
     "title": "Group Members",
-    "section": "",
-    "text": "No matching items"
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#phd-students",
     "href": "members.html#phd-students",
     "title": "Group Members",
-    "section": "",
-    "text": "PhD student\n\n\nThesis defense expected: 2025  Supervisors: PI 1 & PI 2  Title: Project Name  Room: 402\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "PhD Students",
+    "text": "PhD Students\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\nPhD student\n\n\nThesis defense expected: 2025  Supervisors: PI 1 & PI 2  Title: Project Name  Room: 402\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#interns",
     "href": "members.html#interns",
     "title": "Group Members",
-    "section": "",
-    "text": "Master’s Intern\n\n\nDates: Jan 2025 - June 2025  Project: Hydrogel Mechanics\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "Interns",
+    "text": "Interns\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\nMaster’s Intern\n\n\nDates: Jan 2025 - June 2025  Project: Hydrogel Mechanics\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#alumni",
