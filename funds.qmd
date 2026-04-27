@@ -9,7 +9,7 @@ format: html
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.border .rounded .p-4 .shadow-sm .h-100}
-#### 🚀 Starting Package
+#### 🚀 Launching Package MARTAA
 [**PI: Chloé Techens**]{.badge .bg-primary}
 
 Initial funding package supporting new faculty research activities.
