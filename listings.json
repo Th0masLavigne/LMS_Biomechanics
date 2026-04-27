@@ -6,9 +6,9 @@
   {
     "listing": "/members.html",
     "items": [
-      "/members/pis/chloe_techens.html",
-      "/members/pis/template.html",
       "/members/pis/jean-marc_allain.html",
+      "/members/pis/chloe_techens.html",
+      "/members/postdoc/template.html",
       "/members/phds/template.html",
       "/members/interns/template.html",
       "/members/alumnis/template.html"
