@@ -2,7 +2,7 @@
 title: "Mariana Otoya Trevisani"
 subtitle: "PhD Candidate"
 image: ../../resources/images/members/phds/mariana_otoya_trevisani.jpeg
-description: "Thesis started: 2025 <br> Director: C. Techens <br> Room: 104-20-215"
+description: "Thesis started: 2025 <br> Directors: J-M. Allain & C. Techens <br> Room: 104-20-215"
 about:
   id: hero-heading
   template: solana

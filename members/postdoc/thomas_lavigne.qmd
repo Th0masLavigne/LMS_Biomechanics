@@ -2,7 +2,7 @@
 title: "Thomas Lavigne"
 subtitle: "Postdoctoral Researcher"
 image: ../../resources/images/members/postdoc/thomas_lavigne.png
-description: "Project: Project Name <br> Room: 104-20-213 <br>  **Dates:** Dec 2025 - Nov 2027"
+description: "Project: Smooth Mucles Cells characterisation in porous collagen hydrogels <br> Room: 104-20-213 <br>  **Dates:** Dec 2025 - Nov 2027"
 about:
   id: hero-heading
   template: solana
