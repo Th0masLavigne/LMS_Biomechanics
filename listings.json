@@ -22,5 +22,12 @@
   {
     "listing": "/publications.html",
     "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-04-10-euromech.html",
+      "/news/2025-07-31-aap_cp.html"
+    ]
   }
 ]
