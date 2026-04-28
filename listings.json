@@ -1,17 +1,20 @@
 [
   {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/members.html",
     "items": [
       "/members/pis/jean-marc_allain.html",
       "/members/pis/chloe_techens.html",
-      "/members/postdoc/template.html",
-      "/members/phds/template.html",
+      "/members/postdoc/katerina_skardova.html",
+      "/members/postdoc/thomas_lavigne.html",
+      "/members/phds/julien_bonnafe.html",
+      "/members/phds/mariana_otoya_trevisani.html",
+      "/members/phds/simon_kouba.html",
       "/members/interns/template.html",
       "/members/alumnis/template.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   }
 ]

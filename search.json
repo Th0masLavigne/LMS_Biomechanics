@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "funds.html",
+    "href": "funds.html",
+    "title": "Fundings",
     "section": "",
-    "text": "Here is the complete list of our research publications. You can click on the years or categories on the right to filter the list.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        journal\n      \n      \n        Description\n      \n      \n        tags\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\njournal\n\n\n\nDescription\n\n\n\ntags\n\n\n\n\n\n\n\n\n2025\n\n\nHierarchical poromechanical approach to investigate the impact of mechanical loading on human skin micro-circulation\n\n\nThomas Lavigne, Stéphane Urcun, Bérengère Fromy, Audrey Josset-Lamaugarny, Alexandre Lagache, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Pierre-Yves Rohan, Giuseppe Sciumè\n\n\nInternational Journal for Numerical Methods in Biomedical Engineering\n\n\nDOI arXiv\n\n\nSoft Matter, Skin, Others\n\n\n\n\n\n\n2025\n\n\nSynthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis\n\n\nThomas Lavigne, Camilo Andrés Suarez Afanador, Anas Obeidat, Stéphane Urcun\n\n\narXiv preprint\n\n\narXiv\n\n\n \n\n\n\n\n\n\n2024\n\n\nPoromechanical modelling of the time-dependent response of in vivo human skin during extension\n\n\nThomas Lavigne, Stéphane Urcun, Emmanuelle Jacquet, Jérôme Chambert, Aflah Elouneg, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Giuseppe Sciumè, Pierre-Yves Rohan\n\n\nInternational Journal for Numerical Methods in Biomedical Engineering\n\n\nDOI arXiv\n\n\n \n\n\n\n\n\n\n2023\n\n\nSingle and bi-compartment poro-elastic model of perfused biological soft tissues: FEniCSx implementation and tutorial\n\n\nThomas Lavigne, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, Stéphane P.A. Bordas\n\n\nJournal of the Mechanical Behavior of Biomedical Materials\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2023\n\n\nIdentification of material parameters and traction field for soft bodies in contact\n\n\nT. Lavigne, S.P.A. Bordas, J. Lengiewicz\n\n\nComputer Methods in Applied Mechanics and Engineering\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2022\n\n\nDigital Volume Correlation for large deformations of soft tissues: Pipeline and proof of concept for the application to breast ex vivo deformations\n\n\nT. Lavigne, A. Mazier, A. Perney, S.P.A. Bordas, F. Hild, J. Lengiewicz\n\n\nJournal of the Mechanical Behavior of Biomedical Materials\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2022\n\n\nSociété de Biomécanique Young Investigator Award 2021: Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention\n\n\nT. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan\n\n\nClinical Biomechanics\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2020\n\n\nPoynting effects in pantographic metamaterial captured via multiscale DVC\n\n\nPatrick Auger, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, François Hild\n\n\nThe Journal of Strain Analysis for Engineering Design\n\n\nDOI\n\n\n \n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "PI: Chloé Techens 🌐 Launching Package\nInitial funding package supporting new faculty research activities.\n\n\n\n\n\nLeading Group 🌐 ANR KAYO\nMicrorheology of venous blood clots for the diagnosis of hypercoagulability.\n\n\n\n\n\nPartner 🌐 premyom.com\nPrise en charge et Ralentissement de l’Epidémie de MYopie par l’Optique Médicale.\n\n\n\n\n\nPartner 🌐 ANR ROSALY\nDevelopment of an in vitro vascular platform to study the patient-specific mechanobiological behaviour of human primary cells.\n\n\n\n\n\nPartner 🌐 ANR MICHOCO\nMolar-incisor hypomineralization: treatment decision assisted by optical coherence tomography."
+  },
+  {
+    "objectID": "funds.html#ongoing-fundings",
+    "href": "funds.html#ongoing-fundings",
+    "title": "Fundings",
+    "section": "",
+    "text": "PI: Chloé Techens 🌐 Launching Package\nInitial funding package supporting new faculty research activities.\n\n\n\n\n\nLeading Group 🌐 ANR KAYO\nMicrorheology of venous blood clots for the diagnosis of hypercoagulability.\n\n\n\n\n\nPartner 🌐 premyom.com\nPrise en charge et Ralentissement de l’Epidémie de MYopie par l’Optique Médicale.\n\n\n\n\n\nPartner 🌐 ANR ROSALY\nDevelopment of an in vitro vascular platform to study the patient-specific mechanobiological behaviour of human primary cells.\n\n\n\n\n\nPartner 🌐 ANR MICHOCO\nMolar-incisor hypomineralization: treatment decision assisted by optical coherence tomography."
+  },
+  {
+    "objectID": "funds.html#past-funds",
+    "href": "funds.html#past-funds",
+    "title": "Fundings",
+    "section": "Past Funds",
+    "text": "Past Funds\n\n\n\n🏛️ Previous Grant Example\nLeading Group\nDescription of the past project goes here."
   },
   {
     "objectID": "members.html#principal-investigators-pis",
@@ -18,14 +32,14 @@
     "href": "members.html#postdoctoral-researchers",
     "title": "Group Members",
     "section": "Postdoctoral Researchers",
-    "text": "Postdoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nThomas Lavigne\n\n\nPostdoctoral Researcher\n\n\nProject: Project Name  Room: 104-20-213  Dates: Dec 2025 - Nov 2027\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Postdoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nKateřina Škardová\n\n\nPostdoctoral Researcher\n\n\nProject: Meshing and interfaces  Room: 104-20-215  Dates: Aug 2023 - Present\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas Lavigne\n\n\nPostdoctoral Researcher\n\n\nProject: Project Name  Room: 104-20-213  Dates: Dec 2025 - Nov 2027\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#phd-students",
     "href": "members.html#phd-students",
     "title": "Group Members",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\nPhD student\n\n\nThesis defense expected: 2025  Supervisors: PI 1 & PI 2  Title: Project Name  Room: 402\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "PhD Students\n\n\n\n\n\n\n\n\n\n\nJulien Bonnafé\n\n\nPhD Candidate\n\n\nThesis defense expected: 2045  CIFRE PhD: EssilorLuxottica & Inria  Room: 104-20-214\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMariana Otoya Trevisani\n\n\nPhD Candidate\n\n\nThesis started: 2025  Director: C. Techens  Room: 104-20-215\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Kouba\n\n\nPhD Candidate\n\n\nThesis started: 2023  Directors: J.-M. Allain & N. Westbrook  Room: 104-20-213\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#interns",
@@ -40,6 +54,55 @@
     "title": "Group Members",
     "section": "Alumni",
     "text": "Alumni"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here is the complete list of our research publications. You can click on the years or categories on the right to filter the list.\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        journal\n      \n      \n        Description\n      \n      \n        tags\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\njournal\n\n\n\nDescription\n\n\n\ntags\n\n\n\n\n\n\n\n\n2025\n\n\nHierarchical poromechanical approach to investigate the impact of mechanical loading on human skin micro-circulation\n\n\nThomas Lavigne, Stéphane Urcun, Bérengère Fromy, Audrey Josset-Lamaugarny, Alexandre Lagache, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Pierre-Yves Rohan, Giuseppe Sciumè\n\n\nInternational Journal for Numerical Methods in Biomedical Engineering\n\n\nDOI arXiv\n\n\nSoft Matter, Skin, Others\n\n\n\n\n\n\n2025\n\n\nSynthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis\n\n\nThomas Lavigne, Camilo Andrés Suarez Afanador, Anas Obeidat, Stéphane Urcun\n\n\narXiv preprint\n\n\narXiv\n\n\n \n\n\n\n\n\n\n2024\n\n\nPoromechanical modelling of the time-dependent response of in vivo human skin during extension\n\n\nThomas Lavigne, Stéphane Urcun, Emmanuelle Jacquet, Jérôme Chambert, Aflah Elouneg, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Giuseppe Sciumè, Pierre-Yves Rohan\n\n\nInternational Journal for Numerical Methods in Biomedical Engineering\n\n\nDOI arXiv\n\n\n \n\n\n\n\n\n\n2023\n\n\nSingle and bi-compartment poro-elastic model of perfused biological soft tissues: FEniCSx implementation and tutorial\n\n\nThomas Lavigne, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, Stéphane P.A. Bordas\n\n\nJournal of the Mechanical Behavior of Biomedical Materials\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2023\n\n\nIdentification of material parameters and traction field for soft bodies in contact\n\n\nT. Lavigne, S.P.A. Bordas, J. Lengiewicz\n\n\nComputer Methods in Applied Mechanics and Engineering\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2022\n\n\nDigital Volume Correlation for large deformations of soft tissues: Pipeline and proof of concept for the application to breast ex vivo deformations\n\n\nT. Lavigne, A. Mazier, A. Perney, S.P.A. Bordas, F. Hild, J. Lengiewicz\n\n\nJournal of the Mechanical Behavior of Biomedical Materials\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2022\n\n\nSociété de Biomécanique Young Investigator Award 2021: Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention\n\n\nT. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan\n\n\nClinical Biomechanics\n\n\nDOI\n\n\n \n\n\n\n\n\n\n2020\n\n\nPoynting effects in pantographic metamaterial captured via multiscale DVC\n\n\nPatrick Auger, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, François Hild\n\n\nThe Journal of Strain Analysis for Engineering Design\n\n\nDOI\n\n\n \n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Activities",
+    "section": "",
+    "text": "Our group specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.\n\n\n👁️ Cornea Mechanics 👁️‍🗨️ Ocular Mechanics 🩸 Blood Clots 🧫 Hydrogels & Biomaterials 🔬 Soft Matter\n\n\n\n\n\n\n\n\n\n\nCorneal Mechanics & Refractive Surgery\nWe investigate the intricate lamellar microstructure of the cornea to predict its response to surgical interventions (like LASIK or cross-linking) and degenerative diseases (such as keratoconus). Our approach combines inflation tests with microstructure-informed finite element models to characterize anisotropy and collagen remodeling.\nKey topics: Corneal anisotropy Refractive surgery simulation Collagen fiber remodeling\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nFull Ocular Mechanics\nBeyond the cornea, we model the mechanical environment of the entire eye globe. This includes analyzing the biomechanical factors contributing to glaucoma (optic nerve head deformation) and vitreoretinal interaction, treating the eye as a complex, pressurized multi-material system.\nKey topics: Glaucoma biomechanics Optic nerve head deformation Intraocular pressure modeling\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nMechanics of Blood Clots & Hemostasis\nUnderstanding the mechanics of thrombus formation and dissolution is crucial for tackling cardiovascular diseases. We characterize the viscoelastic and fracture properties of fibrin networks and blood clots under physiological flow conditions, aiming to predict clot stability, embolization risks, and the efficacy of thrombolytic therapies.\nKey topics: Thrombus visco-hyperelasticity Fracture mechanics of fibrin Fluid-structure interaction\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nSynthetic Hydrogels & Biomimetic Materials\nHydrogels are essential tools for tissue engineering and mechanobiology. We study the nonlinear, time-dependent mechanics of synthetic and natural hydrogels to tailor their properties for specific biomedical applications, such as developing scaffolds that mimic the mechanical niche of Smooth Muscle Cells (SMCs).\nKey topics: Viscoelasticity of hydrogels Porous media mechanics Biomimetic scaffold design\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nFundamental Soft Matter Mechanics & Others\nWe also apply our expertise to general problems in soft matter and active tissue mechanics, including cell-matrix interactions and the fundamental behavior of other soft biological tissues (vascular, skin, etc.) using novel experimental and numerical tools.\nKey topics: Smooth muscle cell mechanics Tissue growth and atrophy Inverse modeling techniques\n📚 View Relevant Publications\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/alumnis/template.html",
+    "href": "members/alumnis/template.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nDetails about their time in the lab, their thesis, and a link to their final manuscript if applicable…\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/postdoc/katerina_skardova.html",
+    "href": "members/postdoc/katerina_skardova.html",
+    "title": "Kateřina Škardová",
+    "section": "",
+    "text": "Orcid\n  \n  \n      Researchgate\n  \n  \n    \n     LinkedIn\n  \n\n      \n\n    \n    \n  \n\n\nKateřina Škardová is a researcher in Biomechanics and Computational Modeling, specializing in the development of patient-specific biophysical models and advanced numerical methods. Her work focuses on characterizing the complex mechanics and hemodynamics of the cardiovascular system. She has direct expertise in solving partial differential equations, estimating material parameters from clinical imaging (such as MRI), and developing robust computational frameworks for biomedical applications.\n\nShe earned her Ph.D. from the Czech Technical University in Prague (Faculty of Nuclear Sciences and Physical Engineering). Her doctoral work allied theoretical developments, numerical assessments, and clinical application, successfully bridging mathematics and cardiology through collaborations with the Institute of Clinical and Experimental Medicine in Prague. Her research provided critical insights into left ventricular torsion and non-invasive parameter estimation, while emphasizing the coupling of medical data with biophysical models. This program involved strong international collaboration, notably with the Inria-UTSW Associated Team.\n\nMore recently, she is part of post-doctoral research projects at the Institut Polytechnique de Paris:\n\nPost-Doctoral Researcher (08/2023–Present): A joint appointment at École Polytechnique (Solid Mechanics Laboratory - LMS) and Inria (M3DISIM team). Her current research is dedicated to inverse problems in large strains (such as the Equilibrium Gap Method) and hybrid approaches combining reduced-order modeling (Proper Generalised Decomposition) with deep learning to provide real-time solutions for parameterized mechanics problems.\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/phds/mariana_otoya_trevisani.html",
+    "href": "members/phds/mariana_otoya_trevisani.html",
+    "title": "Mariana Otoya Trevisani",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nMariana Otoya Trevisani is a PhD candidate in Biomechanics at the Solid Mechanics Laboratory (LMS). Her research focuses on the multiscale characterization of the extracellular matrix to better understand the biophysical mechanisms driving structural failures in the thoracic aorta.\n\n\nBackground\nMariana holds an engineering degree from IMT Mines Albi and a Master’s in Material and Structural Mechanics from the Université de Toulouse. She complemented her training with a second Master’s degree in Biomechanics and Biomedical Engineering from the Institut Polytechnique de Paris.\nThroughout her academic journey, she has developed broad technical expertise, notably in designing mechanical test benches for medical technologies, studying collagen hydrogel microstructures, and developing innovative characterization methods. Her outstanding academic and project work was recently recognized when she was named a laureate of the Prix Fondation Mines-Télécom.\n\n\n\nThesis Overview\nTitle: Multi-scale mechanical characterization of extra-cellular matrix remodelling by aortic smooth muscle cells\nThoracic Aortic Aneurysm (TAA) involves a pathological “feedback loop” where Smooth Muscle Cells (SMCs) dysregulate the Extracellular Matrix (ECM). Mariana’s PhD project uses 3D collagen hydrogels to quantify how these cellular shifts drive structural tissue failure.\nHer experimental pipeline includes:\n\nBaseline Characterization: Assessing acellular hydrogels using macro-rheology, micro-indentation, and uniaxial traction to establish initial viscoelastic properties.\nSimulating the Aneurysmal Environment: Seeding thoracic aortic SMCs into the matrices and subjecting them to mechanical (traction and compression) and chemical perturbations.\nAnisotropic Scaffold Engineering: Mimicking the aortic media with pre-aligned collagen fibers to isolate how structural “guidance” dictates remodeling efficiency and directionality.\nPost-Culture Analysis: Combining mechanical testing with high-resolution imaging (Confocal and Second Harmonic Generation) to correlate microstructural fiber density with emergent bulk stiffness.\n\nBy bridging local fiber architecture and global tissue mechanics, this research aims to provide a predictive framework for the biophysical transitions leading to catastrophic aortic wall failure.\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/pis/jean-marc_allain.html",
+    "href": "members/pis/jean-marc_allain.html",
+    "title": "Jean-Marc ALLAIN",
+    "section": "",
+    "text": "ORCID\n  \n  \n    \n     WebofScience\n  \n  \n    \n     Gitlab\n  \n  \n    \n     Ecole Polytechnique Profile\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nJean-Marc Allain is a faculty member (Associate Professor / Professeur chargé de cours) in the Department of Mechanics at École Polytechnique (Institut Polytechnique de Paris). He conducts his research at the Solid Mechanics Laboratory (LMS) and was part of the M3DISIM research team (a joint research group involving École Polytechnique, CNRS, and Inria). He defended his PhD in physics in 2005 at Université Paris 7, focusing on the “Instabilities of inhomogeneous lipid membranes: biological implications.”\n\n\nResearch Interests\nJean-Marc Allain’s research sits at the intersection of mechanics, biology, and physics. His work focuses primarily on biomechanics and multiscale experimental mechanobiology, with the overarching goal of linking the microstructure of biological tissues to their macroscopic mechanical properties.\nHis main areas of research include:\n\nSkin Mechanics and Aging: Studying the mechanical behavior of the dermis and the organization of its collagen fibers (e.g., using multiphoton microscopy) to understand how aging impacts the skin.\nVascular Mechanics and Clot Microstructure: Analyzing the organization of the fibrin network and the rheology of blood clots to better evaluate and prevent the risks of thrombosis and pulmonary embolism.\nBiomechanics of the Eye: Investigating the mechanics of the cornea, particularly concerning the effects of surgery or the development of biomimetic artificial corneas.\nPlant Mechanobiology: Studying the mechanical and electrical responses of plants to external stresses (such as wind) and the involvement of mechanosensitive ion channels in cell membranes.\nBacterial Biomechanics: Understanding the mechanical properties and cohesion of bacterial biofilms (for example, Bacillus subtilis).\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News and events",
+    "section": "",
+    "text": "Recent thesis defenses.\nConference presentations.\nAwards and grants.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "opportunities.html",
@@ -63,27 +126,6 @@
     "text": "Spontaneous Applications\nWe highly encourage spontaneous applications from enthusiastic Master’s students, PhD candidates, and Postdoctoral researchers who share our passion for biomechanics.\nIf you are interested in joining our team, please follow these steps:\n\n\n\n\n📝\n\n\n1. Fill the Form\nHead over to our Contact page and fill out the inquiry form to briefly introduce yourself and your research interests.\n\n\n\n\n\n\n📄\n\n\n2. Prepare your CV\nMake sure your academic Curriculum Vitae is up to date, highlighting your relevant skills, background, and publications.\n\n\n\n\n\n\n✉️\n\n\n3. Email the PIs\nSend an email directly to our Principal Investigators with your CV attached and a short message explaining why you’d like to join us.\n\n\n\n\n\nGo to Contact Page"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Activities",
-    "section": "",
-    "text": "Our group specializes in the continuum mechanics of soft, living, and active materials. By focusing on constitutive modeling, visco-hyperelasticity, and fluid-structure interactions, we tackle critical challenges in physiology and tissue engineering.\n\n\n👁️ Cornea Mechanics 👁️‍🗨️ Ocular Mechanics 🩸 Blood Clots 🧫 Hydrogels & Biomaterials 🔬 Soft Matter\n\n\n\n\n\n\n\n\n\n\nCorneal Mechanics & Refractive Surgery\nWe investigate the intricate lamellar microstructure of the cornea to predict its response to surgical interventions (like LASIK or cross-linking) and degenerative diseases (such as keratoconus). Our approach combines inflation tests with microstructure-informed finite element models to characterize anisotropy and collagen remodeling.\nKey topics: Corneal anisotropy Refractive surgery simulation Collagen fiber remodeling\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nFull Ocular Mechanics\nBeyond the cornea, we model the mechanical environment of the entire eye globe. This includes analyzing the biomechanical factors contributing to glaucoma (optic nerve head deformation) and vitreoretinal interaction, treating the eye as a complex, pressurized multi-material system.\nKey topics: Glaucoma biomechanics Optic nerve head deformation Intraocular pressure modeling\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nMechanics of Blood Clots & Hemostasis\nUnderstanding the mechanics of thrombus formation and dissolution is crucial for tackling cardiovascular diseases. We characterize the viscoelastic and fracture properties of fibrin networks and blood clots under physiological flow conditions, aiming to predict clot stability, embolization risks, and the efficacy of thrombolytic therapies.\nKey topics: Thrombus visco-hyperelasticity Fracture mechanics of fibrin Fluid-structure interaction\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nSynthetic Hydrogels & Biomimetic Materials\nHydrogels are essential tools for tissue engineering and mechanobiology. We study the nonlinear, time-dependent mechanics of synthetic and natural hydrogels to tailor their properties for specific biomedical applications, such as developing scaffolds that mimic the mechanical niche of Smooth Muscle Cells (SMCs).\nKey topics: Viscoelasticity of hydrogels Porous media mechanics Biomimetic scaffold design\n📚 View Relevant Publications\n\n\n\n\n\n\n\n\n\n\n\nFundamental Soft Matter Mechanics & Others\nWe also apply our expertise to general problems in soft matter and active tissue mechanics, including cell-matrix interactions and the fundamental behavior of other soft biological tissues (vascular, skin, etc.) using novel experimental and numerical tools.\nKey topics: Smooth muscle cell mechanics Tissue growth and atrophy Inverse modeling techniques\n📚 View Relevant Publications\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "members/postdoc/template.html",
-    "href": "members/postdoc/template.html",
-    "title": "Thomas Lavigne",
-    "section": "",
-    "text": "Orcid\n  \n  \n      Scholar\n  \n  \n      Researchgate\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nThomas Lavigne is a researcher in Biomechanics and Computational Modeling, specializing in the poromechanical and multiscale modeling of soft biological tissues. His work focused on characterizing the complex time-dependent mechanical behavior of soft tissues like human skin and skeletal muscle, with direct applications in fields such as pressure ulcer prevention and tissue engineering.\n\nFormer student of École Normale Supérieure (ENS) Paris-Saclay (mechanical engineering department), He recently earned a Dual Doctoral Degree (Docteur en Sciences de l’Ingénieur) through a Co-tutelle PhD (2022-2025) entitled: Biomechanical modelling of human skin: a hierarchical porous media framework. This PhD work allied theroetical developments, numerical assessments and experimental campaigns, along with international collaboration and dissemination, with a special care on reproducibility. It successfully allowed to couple mechanics and biology (microvascular response) using porous media framework, providing insights on the time-dependent response of human skin as well as ischemic and hyperemic responses to an external load without introducing any neurological effects. This program was a joint effort between:\n\nUniversité du Luxembourg\nÉcole Nationale Supérieure des Arts et Métiers (ENSAM) Paris\n\nThis work was recognized with the 2025 Excellent Thesis Award from the University of Luxembourg and proposed for the FNR Outstanding PhD Award, Prix Bézier (ENSAM), suggested for application to the FNR Outstanding PhD Award and more recently proposed for a potential participation at Prix Tarrach from Les Amis du Luxembourg\n\nMore recently, He am part of post-doctoral research projects:\n\nPost-Doctoral Position (09/2025–11/2025): A three-month appointment at I2M Bordeaux, dedicated to multiscale modeling, HPC software install and porous fluids.\nCNRS ANR Rosaly Post-Doctoral Researcher (12/2025–2027): A two-year project focused on the mechanical characterization of hydrogels intended for use in advanced cell culture systems (LMS, Polytechnique).\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "members/alumnis/template.html",
-    "href": "members/alumnis/template.html",
-    "title": "Firstname Lastname",
-    "section": "",
-    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nDetails about their time in the lab, their thesis, and a link to their final manuscript if applicable…\n\n\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "members/pis/chloe_techens.html",
     "href": "members/pis/chloe_techens.html",
     "title": "Chloé Techens",
@@ -91,18 +133,25 @@
     "text": "Scholar\n  \n  \n    \n     IP Paris\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nChloé Techens is an Assistant Professor at École Polytechnique (Institut Polytechnique de Paris), having recently transitioned from a postdoctoral fellowship in cardiovascular mechanobiology at École des Mines de Saint-Étienne (Sainbiose laboratory). She defended her PhD in Health Technologies in 2022 at the University of Bologna (Italy) in collaboration with the National Center for Spinal Disorders in Budapest (Hungary). Her academic background also includes dual Master’s degrees in Health Engineering from KTH Royal Institute of Technology (Sweden) and Mechanics of Materials from École Centrale Nantes (France).\n\n\nResearch Interests\nChloé Techens’ research bridges the gap between fundamental mechanics and clinical medical applications. She specializes in biomechanics and mechanobiology, focusing on how mechanical stimuli influence cellular behavior and how biological tissues behave across multiple scales.\nHer main areas of research include:\n\nCardiovascular Mechanobiology: Investigating cell-matrix interactions and the mechanoregulation of vascular smooth muscle cells to better understand and prevent vascular diseases like aortic aneurysm dissections.\nSpine Biomechanics and Orthopedics: Assessing the biomechanical consequences of minimally invasive surgical treatments (such as percutaneous cement discoplasty) for advanced intervertebral disc degeneration.\nExperimental and Optical Methodologies: Utilizing advanced imaging and measurement techniques, such as 3D Traction Force Microscopy and Digital Image Correlation (DIC), often at the microscopic scale using microstructured hydrogels.\nTissue Characterization and Modeling: Designing in vitro and ex vivo models to evaluate novel biomaterials, orthopedic devices, and complex loading scenarios on biological tissues.\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "members/pis/jean-marc_allain.html",
-    "href": "members/pis/jean-marc_allain.html",
-    "title": "Jean-Marc ALLAIN",
+    "objectID": "members/phds/simon_kouba.html",
+    "href": "members/phds/simon_kouba.html",
+    "title": "Simon Kouba",
     "section": "",
-    "text": "ORCID\n  \n  \n    \n     WebofScience\n  \n  \n    \n     Gitlab\n  \n  \n    \n     Ecole Polytechnique Profile\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nJean-Marc Allain is a faculty member (Associate Professor / Professeur chargé de cours) in the Department of Mechanics at École Polytechnique (Institut Polytechnique de Paris). He conducts his research at the Solid Mechanics Laboratory (LMS) and was part of the M3DISIM research team (a joint research group involving École Polytechnique, CNRS, and Inria). He defended his PhD in physics in 2005 at Université Paris 7, focusing on the “Instabilities of inhomogeneous lipid membranes: biological implications.”\n\n\nResearch Interests\nJean-Marc Allain’s research sits at the intersection of mechanics, biology, and physics. His work focuses primarily on biomechanics and multiscale experimental mechanobiology, with the overarching goal of linking the microstructure of biological tissues to their macroscopic mechanical properties.\nHis main areas of research include:\n\nSkin Mechanics and Aging: Studying the mechanical behavior of the dermis and the organization of its collagen fibers (e.g., using multiphoton microscopy) to understand how aging impacts the skin.\nVascular Mechanics and Clot Microstructure: Analyzing the organization of the fibrin network and the rheology of blood clots to better evaluate and prevent the risks of thrombosis and pulmonary embolism.\nBiomechanics of the Eye: Investigating the mechanics of the cornea, particularly concerning the effects of surgery or the development of biomimetic artificial corneas.\nPlant Mechanobiology: Studying the mechanical and electrical responses of plants to external stresses (such as wind) and the involvement of mechanosensitive ion channels in cell membranes.\nBacterial Biomechanics: Understanding the mechanical properties and cohesion of bacterial biofilms (for example, Bacillus subtilis).\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "LinkedIn\n  \n  \n    \n     Polytechnique Profile\n  \n  \n    \n     LCF Profile\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nSimon Kouba is a PhD candidate jointly affiliated with the Solid Mechanics Laboratory (LMS) at École Polytechnique and the Biophotonics group at the Laboratoire Charles Fabry (LCF, Institut d’Optique Graduate School). His research sits at the intersection of biomechanics and optical physics, focusing on the intricate mechanical properties of blood clots.\n\n\nThesis Overview\nTitle: Microstructure et microrhéologie de caillots sanguins (Microstructure and microrheology of blood clots)\nUnderstanding the mechanics of thrombus formation and dissolution is crucial for tackling cardiovascular diseases, thrombosis, and embolism. Simon’s thesis investigates the mechanical behavior of blood clots at the microscopic scale, linking the architecture of the fibrin network to its overall rheological response.\nBy combining the biomechanics expertise of the LMS with the advanced optical tools of the LCF, his research focuses on:\n\nMicrorheology: Utilizing advanced biophotonics (such as optical tweezers or advanced microscopy) to probe the local, time-dependent viscoelastic properties of blood clots at the cellular and molecular scale.\nMicrostructural Characterization: Analyzing the 3D organization, density, and architecture of the fibrin network during clot formation.\nMultiscale Mechanics: Bridging the gap between the microscopic interactions of the clot’s components and their macroscopic mechanical response under physiological conditions.\n\nKey topics: Microrheology Fibrin Networks Biophotonics\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "members/phds/template.html",
-    "href": "members/phds/template.html",
-    "title": "Firstname Lastname",
+    "objectID": "members/phds/julien_bonnafe.html",
+    "href": "members/phds/julien_bonnafe.html",
+    "title": "Julien Bonnafé",
     "section": "",
-    "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nThesis topic, abstract, and background…\n\n\n\n\n\n\n Back to top"
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nJulien Bonnafé is a PhD candidate in Biomechanics at the Solid Mechanics Laboratory (LMS), conducting a CIFRE thesis in partnership with EssilorLuxottica International and Inria. His research focuses on the biomechanical modeling of extraocular muscles to better understand the tissue deformations associated with eye movement and myopia development.\n\n\nThesis Overview\nTitle: Modélisation biomécanique des muscles extraoculaires pour le mouvement d’un modèle oculaire appliqué à l’optique.\nJulien’s project investigates the ocular tissue deformations related to eye movements and the development of myopia during childhood. By treating the eye and its surrounding muscles as a complex mechanical system, his work aims to bridge the gap between muscular contraction and long-term ocular growth.\nHis main research objectives include:\n\nExtraocular Muscle Simulation: Simulating the contraction of extraocular muscles to accurately assess the resulting strains and stresses near the visual center of the eye.\nPatient-Specific Modeling: Developing highly accurate, patient-specific Finite Element (FE) models derived directly from Magnetic Resonance (MR) imaging.\nMyopia Evolution: Characterizing the influence of these repeated movements and mechanical stresses using advanced growth and remodeling models to predict myopia progression.\n\nKey topics: Finite Element Method Eye Movements Growth and Remodeling Models\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "members/postdoc/thomas_lavigne.html",
+    "href": "members/postdoc/thomas_lavigne.html",
+    "title": "Thomas Lavigne",
+    "section": "",
+    "text": "Orcid\n  \n  \n      Scholar\n  \n  \n      Researchgate\n  \n  \n    \n     Github\n  \n  \n    \n     Personal Website\n  \n\n      \n\n    \n    \n  \n\n\nThomas Lavigne is a researcher in Biomechanics and Computational Modeling, specializing in the poromechanical and multiscale modeling of soft biological tissues. His work focused on characterizing the complex time-dependent mechanical behavior of soft tissues like human skin and skeletal muscle, with direct applications in fields such as pressure ulcer prevention and tissue engineering.\n\nFormer student of École Normale Supérieure (ENS) Paris-Saclay (mechanical engineering department), He recently earned a Dual Doctoral Degree (Docteur en Sciences de l’Ingénieur) through a Co-tutelle PhD (2022-2025) entitled: Biomechanical modelling of human skin: a hierarchical porous media framework. This PhD work allied theroetical developments, numerical assessments and experimental campaigns, along with international collaboration and dissemination, with a special care on reproducibility. It successfully allowed to couple mechanics and biology (microvascular response) using porous media framework, providing insights on the time-dependent response of human skin as well as ischemic and hyperemic responses to an external load without introducing any neurological effects. This program was a joint effort between:\n\nUniversité du Luxembourg\nÉcole Nationale Supérieure des Arts et Métiers (ENSAM) Paris\n\nThis work was recognized with the 2025 Excellent Thesis Award from the University of Luxembourg and proposed for the FNR Outstanding PhD Award, Prix Bézier (ENSAM), suggested for application to the FNR Outstanding PhD Award and more recently proposed for a potential participation at Prix Tarrach from Les Amis du Luxembourg\n\nMore recently, He am part of post-doctoral research projects:\n\nPost-Doctoral Position (09/2025–11/2025): A three-month appointment at I2M Bordeaux, dedicated to multiscale modeling, HPC software install and porous fluids.\nCNRS ANR Rosaly Post-Doctoral Researcher (12/2025–2027): A two-year project focused on the mechanical characterization of hydrogels intended for use in advanced cell culture systems (LMS, Polytechnique).\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "members/interns/template.html",
@@ -110,13 +159,6 @@
     "title": "Firstname Lastname",
     "section": "",
     "text": "ORCID\n  \n  \n      Scholar\n  \n  \n    \n     Personal Website\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n      \n\n    \n    \n  \n\n\nSummary of the internship project, university affiliation, and background…\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News and events",
-    "section": "",
-    "text": "Recent thesis defenses.\nConference presentations.\nAwards and grants.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -131,26 +173,5 @@
     "title": "Contact Us",
     "section": "",
     "text": "We would love to hear from you. Reach out using the form below or drop by our office!\n\n\n\nSend us a Message\n\n  \n    Name\n    \n  \n  \n    Email\n    \n  \n  \n  \n    Upload CV (.pdf,.doc,.docx and Max 10MB)\n    \n  \n  \n  \n    Message\n    \n  \n  Submit\n\n\n\n\n\n\nOur Location\nAddress: Laboratoire de Mécanique des Solides\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "funds.html",
-    "href": "funds.html",
-    "title": "Fundings",
-    "section": "",
-    "text": "PI: Chloé Techens\nInitial funding package supporting new faculty research activities.\n\n\n\n\n\nLeading Group\nMicrorheology of venous blood clots for the diagnosis of hypercoagulability.\n\n\n\n\n\nPartner\nPrise en charge et Ralentissement de l’Epidémie de MYopie par l’Optique Médicale.\n🌐 premyom.com\n\n\n\n\n\nPartner\nDevelopment of an in vitro vascular platform to study the patient-specific mechanobiological behaviour of human primary cells.\n\n\n\n\n\nPartner\nMolar-incisor hypomineralization: treatment decision assisted by optical coherence tomography."
-  },
-  {
-    "objectID": "funds.html#ongoing-fundings",
-    "href": "funds.html#ongoing-fundings",
-    "title": "Fundings",
-    "section": "",
-    "text": "PI: Chloé Techens\nInitial funding package supporting new faculty research activities.\n\n\n\n\n\nLeading Group\nMicrorheology of venous blood clots for the diagnosis of hypercoagulability.\n\n\n\n\n\nPartner\nPrise en charge et Ralentissement de l’Epidémie de MYopie par l’Optique Médicale.\n🌐 premyom.com\n\n\n\n\n\nPartner\nDevelopment of an in vitro vascular platform to study the patient-specific mechanobiological behaviour of human primary cells.\n\n\n\n\n\nPartner\nMolar-incisor hypomineralization: treatment decision assisted by optical coherence tomography."
-  },
-  {
-    "objectID": "funds.html#past-funds",
-    "href": "funds.html#past-funds",
-    "title": "Fundings",
-    "section": "Past Funds",
-    "text": "Past Funds\n\n\n\n🏛️ Previous Grant Example\nLeading Group\nDescription of the past project goes here."
   }
 ]
