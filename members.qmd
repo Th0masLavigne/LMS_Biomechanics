@@ -53,6 +53,26 @@ listing:
     filter-ui: false
 ---
 
+<style>
+  /* Target the exact image class Quarto uses */
+  .quarto-listing-default .thumbnail-image {
+    width: 200px !important; 
+    height: 150px !important; 
+    object-fit: cover !important;
+    
+    /* Anchor the crop to the top center so heads don't get cut off */
+    object-position: top center !important; 
+    
+    border-radius: 8px !important;
+  }
+  
+  /* Force the container to respect new width */
+  .quarto-listing-default .thumbnail {
+    flex-basis: 200px !important;
+    max-width: 200px !important;
+  }
+</style>
+
 :::: {style='margin-top: 3em;'}
 ::::
 

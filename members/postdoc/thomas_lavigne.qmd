@@ -18,9 +18,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Th0masLavigne
-    - icon: envelope
-      text: Email
-      href: 'mailto: thomas.lavigne@polytechnique.edu'
+    - icon: globe
+      text: Personal Website
+      href: https://th0maslavigne.github.io
 ---
 
 :::{#hero-heading}
