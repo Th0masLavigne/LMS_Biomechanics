@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
     "listing": "/members.html",
     "items": [
       "/members/pis/jean-marc_allain.html",
@@ -13,11 +17,10 @@
       "/members/interns/margaux_mercier.html",
       "/members/interns/parsa_namazian.html",
       "/members/alumnis/gaspard_deremble.html",
-      "/members/alumnis/odette_ngann.html"
+      "/members/alumnis/giulia_merlini.html",
+      "/members/alumnis/odette_ngann.html",
+      "/members/alumnis/qian_wu.html",
+      "/members/alumnis/siyue_peng.html"
     ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": []
   }
 ]
