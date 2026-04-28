@@ -70,6 +70,7 @@ listing:
   .quarto-listing-default .thumbnail {
     flex-basis: 200px !important;
     max-width: 200px !important;
+    margin-right: 2rem !important;
   }
 </style>
 

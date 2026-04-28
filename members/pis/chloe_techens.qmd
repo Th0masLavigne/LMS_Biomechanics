@@ -23,6 +23,14 @@ about:
       href: mailto:chloe.techens@polytechnique.edu
 ---
 
+<style>
+  /* Add horizontal space between image and text on desktop screens */
+  @media (min-width: 768px) {
+    .quarto-about-solana .about-image {
+      margin-left: 3rem !important; /* Increase this number for even more space */
+    }
+  }
+</style>
 
 :::{#hero-heading}
 :::

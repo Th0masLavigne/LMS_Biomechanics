@@ -2,7 +2,7 @@
 title: "Julien Bonnafé"
 subtitle: "PhD Candidate"
 image: ../../resources/images/members/phds/julien_bonnafe.jpeg
-description: "Thesis defense expected: 2045 <br> CIFRE PhD: EssilorLuxottica & Inria <br> Room: 104-20-214"
+description: "Thesis started: 2023 <br> CIFRE PhD: EssilorLuxottica & Inria <br> Room: 104-20-214"
 about:
   id: hero-heading
   template: solana
@@ -16,6 +16,15 @@ about:
       text: Email
       href: mailto:julien.bonnafe@polytechnique.edu
 ---
+
+<style>
+  /* Add horizontal space between image and text on desktop screens */
+  @media (min-width: 768px) {
+    .quarto-about-solana .about-image {
+      margin-left: 3rem !important; /* Increase this number for even more space */
+    }
+  }
+</style>
 
 :::{#hero-heading}
 :::
