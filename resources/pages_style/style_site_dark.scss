@@ -64,9 +64,9 @@ body {
 .callout.callout-style-simple { 
     padding: 0em 1.8em;
     border-left: solid #D66547 0rem; // IP Paris Accent Red
-    border-right: solid 0px silver;
+    border-right: solid 0px rgb(255, 255, 255);
     border-top: solid 0px #D66547;
-    border-bottom: solid 0px silver;
+    border-bottom: solid 0px rgb(247, 247, 247);
 }
   
 .callout.callout-style-simple .callout-body {
@@ -93,13 +93,13 @@ body {
   
         &:hover {
             background-color: #D66547; // IP Paris Accent Red on hover
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); // Adds a shadow
+            box-shadow: 0 4px 8px rgba(226, 226, 226, 0.2); // Adds a shadow
             font-size: 0.97rem;
         }
   
         &:active {
             background-color: #a84f37; // Darker Red for active state
-            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2); // Inset shadow
+            box-shadow: inset 0 2px 4px rgb(222, 222, 222); // Inset shadow
             font-size: 0.97rem;
         }
   
@@ -109,6 +109,38 @@ body {
     }
 }
   
+// Fix for Outline Buttons in Dark Mode
+.btn-outline-primary {
+    color: $link-color; 
+    border-color: $link-color; 
+    
+    &:hover, &:focus, &:active {
+        background-color: $link-color;
+        color: $body-bg; // Inverts to dark navy text on hover for contrast
+        border-color: $link-color;
+    }
+}
+
+.btn-outline-secondary {
+    color: $body-color; // Uses your off-white #f3f3f3
+    border-color: $body-color; 
+    
+    &:hover, &:focus, &:active {
+        background-color: $body-color;
+        color: $body-bg; // Inverts to dark navy text on hover
+        border-color: $body-color;
+    }
+}
+
+// Fix for Secondary Text & Borders (used in your Key Topic badges)
+.text-secondary {
+    color: #d1d1d1 !important; // Brightened up grey/white so it doesn't disappear
+}
+
+.border-secondary {
+    border-color: #d1d1d1 !important;
+}
+
 // scss for about page
 div.quarto-about-trestles {
   background-color: var(--bs-body-bg) !important;
