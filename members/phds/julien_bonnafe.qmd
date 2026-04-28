@@ -17,15 +17,6 @@ about:
       href: mailto:julien.bonnafe@polytechnique.edu
 ---
 
-<style>
-  /* Add horizontal space between image and text on desktop screens */
-  @media (min-width: 768px) {
-    .quarto-about-solana .about-image {
-      margin-left: 3rem !important; /* Increase this number for even more space */
-    }
-  }
-</style>
-
 :::{#hero-heading}
 :::
 
@@ -35,7 +26,7 @@ about:
 
 ### Thesis Overview
 
-**Title:** *Modélisation biomécanique des muscles extraoculaires pour le mouvement d'un modèle oculaire appliqué à l'optique.*
+**Title:** *Biomechanical modeling of extra ocular muscles for the movement of an eye model applied to optics and myopia evolution.*
 
 Julien's project investigates the ocular tissue deformations related to eye movements and the development of myopia during childhood. By treating the eye and its surrounding muscles as a complex mechanical system, his work aims to bridge the gap between muscular contraction and long-term ocular growth.
 

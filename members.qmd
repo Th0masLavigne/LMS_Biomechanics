@@ -56,7 +56,7 @@ listing:
 <style>
   /* Target the exact image class Quarto uses */
   .quarto-listing-default .thumbnail-image {
-    width: 200px !important; 
+    width: 150px !important; 
     height: 150px !important; 
     object-fit: cover !important;
     
@@ -66,11 +66,18 @@ listing:
     border-radius: 8px !important;
   }
   
-  /* Force the container to respect new width */
+  /* Force the container to respect new width and add spacing */
   .quarto-listing-default .thumbnail {
-    flex-basis: 200px !important;
-    max-width: 200px !important;
+    flex-basis: 150px !important;
+    max-width: 150px !important;
     margin-right: 2rem !important;
+  }
+
+  /* Vertically center the image/text AND add space at the bottom */
+  .quarto-listing-default .quarto-post {
+    align-items: center !important;
+    padding-bottom: 1.5rem !important; /* Pushes the line away from the image */
+    margin-bottom: 1.5rem !important;  /* Adds space before the next person */
   }
 </style>
 
