@@ -35,7 +35,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Simon Kouba** is a PhD candidate jointly affiliated with the Solid Mechanics Laboratory (LMS) at École Polytechnique and the Biophotonics group at the Laboratoire Charles Fabry (LCF, Institut d'Optique Graduate School). His research sits at the intersection of biomechanics and optical physics, focusing on the intricate mechanical properties of blood clots.
+**Simon Kouba** is a PhD candidate jointly affiliated with the Laboratoire de Mécanique des Solides (LMS) at École Polytechnique and the Biophotonics group at the Laboratoire Charles Fabry (LCF, Institut d'Optique Graduate School). His research sits at the intersection of biomechanics and optical physics, focusing on the intricate mechanical properties of blood clots.
 
 ---
 

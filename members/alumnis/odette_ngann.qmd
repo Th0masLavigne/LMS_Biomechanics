@@ -22,7 +22,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Odette Ngann** is a former intern at the Solid Mechanics Laboratory (LMS). During her one-month internship, she focused on experimental mechanobiology, specifically working on the formulation and advanced imaging of composite biomaterials.
+**Odette Ngann** is a former intern at the Laboratoire de Mécanique des Solides (LMS). During her one-month internship, she focused on experimental mechanobiology, specifically working on the formulation and advanced imaging of composite biomaterials.
 
 ---
 

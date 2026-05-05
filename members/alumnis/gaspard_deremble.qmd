@@ -26,7 +26,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Gaspard Deremble** is a student at École Polytechnique and a former intern at the Solid Mechanics Laboratory (LMS). During his 3-month internship, he focused on computational biomechanics and the development of advanced numerical tools for soft tissue modeling.
+**Gaspard Deremble** is a student at École Polytechnique and a former intern at the Laboratoire de Mécanique des Solides (LMS). During his 3-month internship, he focused on computational biomechanics and the development of advanced numerical tools for soft tissue modeling.
 
 ---
 

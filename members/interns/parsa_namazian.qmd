@@ -26,7 +26,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Parsa Namazian** is a Master's intern conducting a lab rotation at the Solid Mechanics Laboratory (LMS). His research focuses on computational biomechanics, specifically modeling the complex mechanical behaviors of cells within tissue-engineered scaffolds.
+**Parsa Namazian** is a Master's intern conducting a lab rotation at the Laboratoire de Mécanique des Solides (LMS). His research focuses on computational biomechanics, specifically modeling the complex mechanical behaviors of cells within tissue-engineered scaffolds.
 
 ---
 

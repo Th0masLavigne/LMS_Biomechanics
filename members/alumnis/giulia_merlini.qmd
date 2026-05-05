@@ -38,7 +38,7 @@ about:
 
 ### Background
 
-During her doctoral studies, Giulia worked in a highly multidisciplinary environment, collaborating closely with leading applied mathematics and mechanics research groups. In addition to her work at the **Solid Mechanics Laboratory (LMS)**, she was strongly affiliated with the **MATHERIALS team at Inria** and the **CERMICS laboratory** at École des Ponts ParisTech. This unique background provided her with a robust foundation in scientific computing, mathematical analysis, and the mechanics of materials.
+During her doctoral studies, Giulia worked in a highly multidisciplinary environment, collaborating closely with leading applied mathematics and mechanics research groups. In addition to her work at the **Laboratoire de Mécanique des Solides (LMS)**, she was strongly affiliated with the **MATHERIALS team at Inria** and the **CERMICS laboratory** at École des Ponts ParisTech. This unique background provided her with a robust foundation in scientific computing, mathematical analysis, and the mechanics of materials.
 
 ---
 

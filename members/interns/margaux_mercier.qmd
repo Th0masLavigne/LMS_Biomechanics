@@ -29,7 +29,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Margaux Mercier** is a Master's intern in Biomechanics at the Solid Mechanics Laboratory (LMS). Her 6-month research project focuses on the experimental characterization and imaging of corneal tissues.
+**Margaux Mercier** is a Master's intern in Biomechanics at the Laboratoire de Mécanique des Solides (LMS). Her 6-month research project focuses on the experimental characterization and imaging of corneal tissues.
 
 ---
 

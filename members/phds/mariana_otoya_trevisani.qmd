@@ -29,7 +29,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Mariana Otoya Trevisani** is a PhD candidate in Biomechanics at the Solid Mechanics Laboratory (LMS). Her research focuses on the multiscale characterization of the extracellular matrix to better understand the biophysical mechanisms driving structural failures in the thoracic aorta.
+**Mariana Otoya Trevisani** is a PhD candidate in Biomechanics at the Laboratoire de Mécanique des Solides (LMS). Her research focuses on the multiscale characterization of the extracellular matrix to better understand the biophysical mechanisms driving structural failures in the thoracic aorta.
 
 ---
 

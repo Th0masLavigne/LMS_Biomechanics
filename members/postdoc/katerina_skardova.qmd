@@ -40,7 +40,7 @@ She earned her **Ph.D.** from the **Czech Technical University in Prague** (Facu
 
 More recently, she is part of post-doctoral research projects at the **Institut Polytechnique de Paris**:
 
-- **Post-Doctoral Researcher (08/2023–Present)**: A joint appointment at **École Polytechnique (Solid Mechanics Laboratory - LMS)** and **Inria (M3DISIM team)**. Her current research is dedicated to inverse problems in large strains (such as the Equilibrium Gap Method) and hybrid approaches combining reduced-order modeling (Proper Generalised Decomposition) with deep learning to provide real-time solutions for parameterized mechanics problems.
+- **Post-Doctoral Researcher (08/2023–Present)**: A joint appointment at **École Polytechnique (Laboratoire de Mécanique des Solides - LMS)** and **Inria (M3DISIM team)**. Her current research is dedicated to inverse problems in large strains (such as the Equilibrium Gap Method) and hybrid approaches combining reduced-order modeling (Proper Generalised Decomposition) with deep learning to provide real-time solutions for parameterized mechanics problems.
 
 <script type="application/javascript" src="../../resources/pages_style/custom_hal.js"></script>
 <script type="application/javascript" src="../../resources/pages_style/carousel.js"></script>

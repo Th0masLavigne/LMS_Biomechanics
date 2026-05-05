@@ -44,7 +44,7 @@ He earned his **Ph.D. in Materials Science and Engineering** in 2024 from the **
 
 Prior to joining the laboratory, Guillaume completed a postdoctoral fellowship at the **Centre for Biomedical and Healthcare Engineering** (Sainbiose lab, Saint-Étienne), where he developed shape-morphing polymers and validated inflammatory responses using macrophage cultures.
 
-More recently, he joined the **Solid Mechanics Laboratory (LMS)** at École Polytechnique as a Postdoctoral Researcher, bringing his versatile skill set in smart materials, advanced characterization (Micro-CT, SEM, Confocal microscopy), and 3D printing to tackle new challenges in soft tissue biomechanics and mechanobiology.
+More recently, he joined the **Laboratoire de Mécanique des Solides (LMS)** at École Polytechnique as a Postdoctoral Researcher, bringing his versatile skill set in smart materials, advanced characterization (Micro-CT, SEM, Confocal microscopy), and 3D printing to tackle new challenges in soft tissue biomechanics and mechanobiology.
 
 <script type="application/javascript" src="../../resources/pages_style/custom_hal.js"></script>
 <script type="application/javascript" src="../../resources/pages_style/carousel.js"></script>

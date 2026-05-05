@@ -29,7 +29,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Qian Wu** is a former PhD student at the Solid Mechanics Laboratory (LMS), having successfully defended her thesis in 2025. She is a highly versatile researcher specializing in biomechanics and materials mechanics, with deep expertise in experimental characterization and AI-based image analysis. 
+**Qian Wu** is a former PhD student at the Laboratoire de Mécanique des Solides (LMS), having successfully defended her thesis in 2025. She is a highly versatile researcher specializing in biomechanics and materials mechanics, with deep expertise in experimental characterization and AI-based image analysis. 
 
 She aims to actively contribute to scientific innovation, its industrial application, and the transfer and valorization of knowledge.
 

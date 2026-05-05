@@ -20,7 +20,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Julien Bonnafé** is a PhD candidate in Biomechanics at the Solid Mechanics Laboratory (LMS), conducting a CIFRE thesis in partnership with **EssilorLuxottica International** and **Inria**. His research focuses on the biomechanical modeling of extraocular muscles to better understand the tissue deformations associated with eye movement and myopia development.
+**Julien Bonnafé** is a PhD candidate in Biomechanics at the Laboratoire de Mécanique des Solides (LMS), conducting a CIFRE thesis in partnership with **EssilorLuxottica International** and **Inria**. His research focuses on the biomechanical modeling of extraocular muscles to better understand the tissue deformations associated with eye movement and myopia development.
 
 ---
 

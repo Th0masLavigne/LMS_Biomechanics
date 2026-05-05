@@ -26,7 +26,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Siyue Peng** is a motivated and detail-oriented Biomedical Engineer and a former intern at the Solid Mechanics Laboratory (LMS). Their work focuses on the intersection of medical imaging, signal processing, and machine learning, specifically applied to ocular biomechanics.
+**Siyue Peng** is a motivated and detail-oriented Biomedical Engineer and a former intern at the Laboratoire de Mécanique des Solides (LMS). Their work focuses on the intersection of medical imaging, signal processing, and machine learning, specifically applied to ocular biomechanics.
 
 ---
 
