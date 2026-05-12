@@ -1,5 +1,5 @@
 ---
-title: "Guillaume Patt Laffite"
+title: "Guillaume Patt-Lafitte"
 subtitle: "Postdoctoral Researcher"
 image: ../../resources/images/members/postdoc/guillaume_patt_laffite.png
 description: "Project: _Coup de Pouce_ F2M <br> Room: 104-20-XXX <br>  **Dates:** 2026 - Present"
@@ -19,7 +19,7 @@ about:
       href: https://sainbiose-lab.fr/team/guillaume-patt-laffite/
     - icon: envelope
       text: Email
-      href: mailto:guillaume.patt-laffite@polytechnique.edu
+      href: mailto:guillaume.patt-lafitte@polytechnique.edu
 ---
 
 <style>
@@ -34,7 +34,7 @@ about:
 :::{#hero-heading}
 :::
 
-**Guillaume Patt Laffite** is a multidisciplinary researcher in **Biomaterials** and **Biomedical Engineering**, specializing in the **design and characterization of 3D and 4D printed smart polymers**. His work focuses on developing shape-morphing polymer materials, structural composites, and responsive scaffolds intended for advanced biomedical applications, such as bone fixation and tissue engineering. 
+**Guillaume Patt-Lafitte** is a multidisciplinary researcher in **Biomaterials** and **Biomedical Engineering**, specializing in the **design and characterization of 3D and 4D printed smart polymers**. His work focuses on developing shape-morphing polymer materials, structural composites, and responsive scaffolds intended for advanced biomedical applications, such as bone fixation and tissue engineering. 
 
 ---
 
