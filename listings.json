@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/members.html",
     "items": [
       "/members/pis/jean-marc_allain.html",
@@ -22,6 +18,10 @@
       "/members/alumnis/qian_wu.html",
       "/members/alumnis/siyue_peng.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   },
   {
     "listing": "/news.html",
